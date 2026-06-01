@@ -4,6 +4,9 @@ const OUT_FILE = new URL("../data/opportunities.json", import.meta.url);
 const REPORT_FILE = new URL("../public/report.html", import.meta.url);
 const SOCIAL_FILE = new URL("../data/social-posts.md", import.meta.url);
 const SPONSOR_FILE = new URL("../data/sponsor-kit.md", import.meta.url);
+const PAID_REPORT_FILE = new URL("../deliverables/weekly-pro-report.html", import.meta.url);
+const PAID_DATA_FILE = new URL("../deliverables/weekly-pro-data.json", import.meta.url);
+const PUBLIC_LIMIT = 6;
 
 const sources = [
   {
@@ -171,16 +174,29 @@ async function main() {
   const payload = {
     generatedAt: new Date().toISOString(),
     project: "AI Opportunity Radar",
+    totalCount: items.length,
+    publicCount: Math.min(PUBLIC_LIMIT, items.length),
+    lockedCount: Math.max(0, items.length - PUBLIC_LIMIT),
+    items: items.slice(0, PUBLIC_LIMIT),
+  };
+
+  const paidPayload = {
+    generatedAt: payload.generatedAt,
+    project: payload.project,
+    totalCount: items.length,
     items,
   };
 
   await mkdir(new URL("../data/", import.meta.url), { recursive: true });
   await mkdir(new URL("../public/", import.meta.url), { recursive: true });
+  await mkdir(new URL("../deliverables/", import.meta.url), { recursive: true });
   await writeFile(OUT_FILE, `${JSON.stringify(payload, null, 2)}\n`, "utf8");
   await writeFile(REPORT_FILE, renderReport(payload), "utf8");
-  await writeFile(SOCIAL_FILE, renderSocialPosts(payload), "utf8");
-  await writeFile(SPONSOR_FILE, renderSponsorKit(payload), "utf8");
-  console.log(`Generated ${items.length} opportunities, report, social posts, and sponsor kit.`);
+  await writeFile(PAID_REPORT_FILE, renderPaidReport(paidPayload), "utf8");
+  await writeFile(PAID_DATA_FILE, `${JSON.stringify(paidPayload, null, 2)}\n`, "utf8");
+  await writeFile(SOCIAL_FILE, renderSocialPosts(paidPayload), "utf8");
+  await writeFile(SPONSOR_FILE, renderSponsorKit(paidPayload), "utf8");
+  console.log(`Generated ${payload.publicCount} public samples, ${paidPayload.totalCount} paid opportunities, report, social posts, and sponsor kit.`);
 }
 
 async function readPreviousItems() {
@@ -193,7 +209,7 @@ async function readPreviousItems() {
 }
 
 function renderReport(payload) {
-  const top = payload.items.slice(0, 12);
+  const top = payload.items.slice(0, PUBLIC_LIMIT);
   const rows = top
     .map(
       (item, index) => `
@@ -226,7 +242,7 @@ function renderReport(payload) {
       <section class="report-hero">
         <p class="eyebrow">Paid Sample</p>
         <h1>AI Opportunity Radar Weekly Report</h1>
-        <p>Automatically curated from ${payload.items.length} public signals. This sample shows the top 12 opportunities. We sell curation and source-linked research, not guaranteed income.</p>
+        <p>This free sample shows ${payload.publicCount} source-linked opportunities. The paid products are for the full curated issue, category prioritization, and practical execution notes. We sell research, not guaranteed income.</p>
         <div class="product-actions">
           <a class="primary" data-checkout="starter" href="https://www.paypal.com/ncp/payment/YOUR_STARTER_LINK_ID">Starter $4.99</a>
           <a class="secondary" data-checkout="pro" href="https://www.paypal.com/ncp/payment/YOUR_PRO_LINK_ID">Weekly Pro $9.99</a>
@@ -247,6 +263,17 @@ function renderReport(payload) {
         </div>
       </section>
       <section class="report-list">${rows}</section>
+      <section class="product-band">
+        <div>
+          <p class="eyebrow">Locked Content</p>
+          <h2>${payload.lockedCount} additional signals are reserved for paid buyers</h2>
+          <p>Starter includes a compact issue. Weekly Pro includes the full issue with 30-50 source-linked signals when enough quality signals are available.</p>
+        </div>
+        <div class="product-actions">
+          <a class="primary" data-checkout="starter" href="https://www.paypal.com/ncp/payment/YOUR_STARTER_LINK_ID">Starter $4.99</a>
+          <a class="secondary" data-checkout="pro" href="https://www.paypal.com/ncp/payment/YOUR_PRO_LINK_ID">Weekly Pro $9.99</a>
+        </div>
+      </section>
       <section class="final-note">
         Small independent operation. Digital content sales are final and non-refundable after access is delivered. No investment, legal, tax, employment, or income guarantee is provided.
       </section>
@@ -261,6 +288,61 @@ function renderReport(payload) {
         });
       }
     </script>
+  </body>
+</html>`;
+}
+
+function renderPaidReport(payload) {
+  const rows = payload.items
+    .map(
+      (item, index) => `
+        <article class="report-item">
+          <span>${index + 1}</span>
+          <div>
+            <h2>${escapeHtml(item.title)}</h2>
+            <p>${escapeHtml(item.summary)}</p>
+            <dl>
+              <div><dt>Category</dt><dd>${escapeHtml(categoryLabel(item.category))}</dd></div>
+              <div><dt>Score</dt><dd>${escapeHtml(String(item.score))}</dd></div>
+              <div><dt>Monetize</dt><dd>${escapeHtml(item.monetization)}</dd></div>
+              <div><dt>Next</dt><dd>${escapeHtml(item.action)}</dd></div>
+            </dl>
+            <a href="${escapeAttr(item.url)}">Source</a>
+          </div>
+        </article>`,
+    )
+    .join("");
+
+  return `<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI Opportunity Radar Weekly Pro</title>
+    <link rel="stylesheet" href="../public/styles.css" />
+  </head>
+  <body>
+    <main class="report-page">
+      <section class="report-hero">
+        <p class="eyebrow">Paid Deliverable</p>
+        <h1>AI Opportunity Radar Weekly Pro</h1>
+        <p>${payload.totalCount} source-linked AI business signals with prioritization scores, monetization notes, and first actions.</p>
+      </section>
+      <section class="trust-band">
+        <div>
+          <strong>Source-linked research</strong>
+          <span>Every item keeps a source link so buyers can verify the original signal.</span>
+        </div>
+        <div>
+          <strong>No outcome guarantee</strong>
+          <span>Scores are prioritization signals. This is not financial, legal, investment, or employment advice.</span>
+        </div>
+      </section>
+      <section class="report-list">${rows}</section>
+      <section class="final-note">
+        Small independent operation. Digital content sales are final and non-refundable after access is delivered. No investment, legal, tax, employment, or income guarantee is provided.
+      </section>
+    </main>
   </body>
 </html>`;
 }
@@ -338,6 +420,11 @@ Replace the placeholder PayPal payment link and support email in \`public/config
 - Digital content sales are final and non-refundable after access is delivered
 - No custom after-sales service is included
 `;
+}
+
+function categoryLabel(category) {
+  const map = { "远程工作": "Remote Jobs", "AI 工具": "AI Tools", "开源项目": "Open Source", "赚钱案例": "Monetization" };
+  return map[category] || category;
 }
 
 function escapeHtml(value) {

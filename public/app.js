@@ -1,6 +1,8 @@
 const state = {
   items: [],
   filter: "全部",
+  lockedCount: 0,
+  totalCount: 0,
 };
 
 const cards = document.querySelector("#cards");
@@ -22,7 +24,9 @@ async function load() {
   const res = await fetch(dataPath, { cache: "no-store" });
   const data = await res.json();
   state.items = data.items || [];
-  totalCount.textContent = state.items.length;
+  state.lockedCount = data.lockedCount || 0;
+  state.totalCount = data.totalCount || state.items.length;
+  totalCount.textContent = state.totalCount;
   topScore.textContent = Math.max(...state.items.map((item) => item.score || 0), 0);
   updateTime.textContent = new Date(data.generatedAt).toLocaleDateString("en-US", {
     month: "short",
@@ -37,7 +41,7 @@ function render() {
       ? state.items
       : state.items.filter((item) => item.category === state.filter);
 
-  cards.innerHTML = items
+  const sampleCards = items
     .map(
       (item) => `
         <article class="card">
@@ -62,6 +66,33 @@ function render() {
       `,
     )
     .join("");
+  const lockedCard =
+    state.lockedCount > 0
+      ? `
+        <article class="card locked-card">
+          <div class="card-top">
+            <span class="tag">Paid Issue</span>
+            <span class="score">+</span>
+          </div>
+          <h3>${escapeHtml(String(state.lockedCount))} more signals are reserved for paid buyers</h3>
+          <p>The paid issue includes the full curated list, source links, prioritization scores, monetization notes, and first-action suggestions.</p>
+          <dl>
+            <div class="row">
+              <dt>Starter</dt>
+              <dd>$4.99 compact issue</dd>
+            </div>
+            <div class="row">
+              <dt>Pro</dt>
+              <dd>$9.99 full weekly issue</dd>
+            </div>
+          </dl>
+          <a data-checkout="starter" href="https://www.paypal.com/ncp/payment/YOUR_STARTER_LINK_ID">Unlock Starter</a>
+        </article>
+      `
+      : "";
+
+  cards.innerHTML = sampleCards + lockedCard;
+  applyConfig();
 }
 
 function applyConfig() {

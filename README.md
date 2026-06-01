@@ -27,6 +27,10 @@ npm run serve
 - `public/report.html`：可售报告样张
 - `data/social-posts.md`：小红书、即刻、知乎、公众号、私域群分发文案
 - `data/sponsor-kit.md`：赞助位报价页
+- `deliverables/weekly-pro-report.html`：本地完整付费报告，不上传到公网
+- `deliverables/weekly-pro-data.json`：本地完整付费数据，不上传到公网
+
+公开网站只展示少量样例。完整数据和完整报告在 `deliverables/`，该目录已加入 `.gitignore`，不会发布到 GitHub Pages。
 
 当前数据源：
 
@@ -71,6 +75,8 @@ PayPal 审核完成后，在 PayPal Business 后台创建 3 个 Payment Link：
 - Price: `$4.99`
 - Delivery: `public/report.html` 或 PDF
 - Goal: 先拿到 3 个付费或 20 个明确想要的人
+
+当前 PayPal Payment Link 只负责收款，不会自动发货。收到 PayPal 付款通知后，把 `deliverables/weekly-pro-report.html` 导出或发送给买家。后续如果要全自动交付，需要接入 Lemon Squeezy、Gumroad、Payhip、Stripe Payment Links + 自动邮件，或自己做后端 webhook。
 
 第二阶段卖赞助：
 
