@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI Opportunity Radar</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Daily Opportunity Radar</p>
+        <h1>AI Opportunity Radar</h1>
+      </div>
+      <a class="contact" data-checkout="starter" href="https://www.paypal.com/ncp/payment/YOUR_STARTER_LINK_ID">Buy Starter</a>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div class="hero-copy">
+          <h2>Daily AI business signals for builders, solopreneurs, and operators.</h2>
+          <p>We turn public, source-linked signals from AI tools, remote jobs, open-source projects, and indie business ideas into practical research notes. No income claims, no hype.</p>
+        </div>
+        <div class="metric-grid" aria-label="今日指标">
+          <div><strong id="total-count">0</strong><span>signals</span></div>
+          <div><strong id="top-score">0</strong><span>top score</span></div>
+          <div><strong id="update-time">--</strong><span>updated</span></div>
+        </div>
+      </section>
+
+      <section class="toolbar" aria-label="筛选">
+        <button class="active" data-filter="全部">All</button>
+        <button data-filter="远程工作">Remote Jobs</button>
+        <button data-filter="AI 工具">AI Tools</button>
+        <button data-filter="开源项目">Open Source</button>
+        <button data-filter="赚钱案例">Monetization</button>
+      </section>
+
+      <section id="cards" class="cards" aria-live="polite"></section>
+
+      <section class="trust-band">
+        <div>
+          <strong>Research-first promise</strong>
+          <span>Every item keeps a source link. Scores are prioritization signals, not financial advice or guaranteed outcomes.</span>
+        </div>
+        <div>
+          <strong>Final digital sale</strong>
+          <span>Digital report access is delivered immediately. All sales are final after access is delivered, and custom after-sales service is not included.</span>
+        </div>
+      </section>
+
+      <section class="product-band">
+        <div>
+          <p class="eyebrow">Pricing</p>
+          <h2>Simple paid research products</h2>
+          <p>Start cheap and honest. Buyers pay for curation, source links, and practical next steps, not a promise that they will make money.</p>
+        </div>
+        <div class="product-actions">
+          <a class="primary" href="./report.html">View Sample</a>
+          <a class="secondary" data-checkout="starter" href="https://www.paypal.com/ncp/payment/YOUR_STARTER_LINK_ID">Starter $4.99</a>
+        </div>
+      </section>
+
+      <section class="pricing-grid" aria-label="Pricing tiers">
+        <article>
+          <p class="eyebrow">Starter</p>
+          <h3>$4.99</h3>
+          <p>One sample issue with 10-15 curated signals, source links, and first actions.</p>
+          <a class="primary" data-checkout="starter" href="https://www.paypal.com/ncp/payment/YOUR_STARTER_LINK_ID">Buy Starter</a>
+        </article>
+        <article>
+          <p class="eyebrow">Weekly Pro</p>
+          <h3>$9.99</h3>
+          <p>Full weekly issue with 30-50 signals, category summaries, and practical monetization notes.</p>
+          <a class="primary" data-checkout="pro" href="https://www.paypal.com/ncp/payment/YOUR_PRO_LINK_ID">Buy Pro</a>
+        </article>
+        <article>
+          <p class="eyebrow">Sponsor</p>
+          <h3>$49</h3>
+          <p>One weekly sponsor mention for relevant AI tools, automation services, or founder products.</p>
+          <a class="primary" data-checkout="sponsor" href="https://www.paypal.com/ncp/payment/YOUR_SPONSOR_LINK_ID">Sponsor</a>
+        </article>
+      </section>
+
+      <section class="offer">
+        <div>
+          <p class="eyebrow">Compliance</p>
+          <h2>Built to avoid bad-faith selling</h2>
+          <p>This is an information product based on public sources. It does not sell investment advice, employment guarantees, or get-rich-quick claims.</p>
+        </div>
+        <div class="product-actions">
+          <a class="primary" data-checkout="starter" href="https://www.paypal.com/ncp/payment/YOUR_STARTER_LINK_ID">Buy Starter</a>
+          <a class="secondary dark" href="../data/sponsor-kit.md">Sponsor Kit</a>
+        </div>
+      </section>
+
+      <section class="final-note">
+        Small independent operation. Digital content sales are final and non-refundable after access is delivered. No investment, legal, tax, employment, or income guarantee is provided.
+      </section>
+    </main>
+
+    <script src="./config.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>
