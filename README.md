@@ -78,6 +78,48 @@ PayPal 审核完成后，在 PayPal Business 后台创建 3 个 Payment Link：
 
 当前 PayPal Payment Link 只负责收款，不会自动发货。收到 PayPal 付款通知后，把 `deliverables/weekly-pro-report.html` 导出或发送给买家。后续如果要全自动交付，需要接入 Lemon Squeezy、Gumroad、Payhip、Stripe Payment Links + 自动邮件，或自己做后端 webhook。
 
+## PDF 交付物
+
+生成 PDF：
+
+```bash
+npm run pdfs
+```
+
+会生成：
+
+- `deliverables/starter-report.pdf`：`$4.99` Starter
+- `deliverables/weekly-pro-report.pdf`：`$9.99` Weekly Pro
+- `deliverables/sponsor-kit.pdf`：`$49` Sponsor
+
+这些文件都在 `deliverables/`，不会发布到公网。
+
+## 邮件发货
+
+预览发货邮件：
+
+```bash
+/Users/yaosiyuan/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/send_delivery.py --tier starter --to buyer@example.com --transaction PAYPAL-ID --dry-run
+```
+
+真实发送需要配置专用发货邮箱的 SMTP 环境变量：
+
+```bash
+export DELIVERY_FROM_EMAIL="AI Opportunity Radar <your-delivery-email@example.com>"
+export DELIVERY_SMTP_HOST="smtp.example.com"
+export DELIVERY_SMTP_PORT="587"
+export DELIVERY_SMTP_USER="your-delivery-email@example.com"
+export DELIVERY_SMTP_PASS="app-password-or-smtp-token"
+```
+
+发送：
+
+```bash
+/Users/yaosiyuan/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/send_delivery.py --tier pro --to buyer@example.com --transaction PAYPAL-ID
+```
+
+不要使用主邮箱密码。只使用专门发货邮箱的 app password 或 SMTP token。
+
 第二阶段卖赞助：
 
 - Homepage sponsor slot: `$49 / 7 days`

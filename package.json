@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "generate": "node scripts/generate.js",
+    "pdfs": "/Users/yaosiyuan/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/build_pdfs.py",
     "autopilot": "node scripts/generate.js",
     "serve": "node scripts/serve.js"
   }
