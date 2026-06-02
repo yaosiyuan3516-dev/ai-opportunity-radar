@@ -1,38 +1,38 @@
-# 6/1/2026 AI Opportunity Radar Distribution Copy
+# 6/2/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Social Media Moderator @ RemoteVA
+1. Submit Your Resume @ Nelson Motors and Equipment
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Auxiliar de Oficina General Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
+2. Futuros Profesionales Trainee AutomatizaciÃ³n de Procesos @ Universia Argentina
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Asistente Virtual de Recursos Humanos ContrataciÃ³n Inmediata @ Universia MÃ©xico
+3. Team Member @ Leicester Arms
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Auxiliar de Oficina General Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
+4. Junior Brand Designer @ Twine
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Asistente Virtual de Recursos Humanos Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
+5. Auxiliar de Oficina General Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Auxiliar de Oficina General Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
+6. Especialista En Marketing Digital Y GestiÃ³n De Contenidos @ Canarias.com
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Asistente Virtual de Recursos Humanos Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
+7. Especialista En Marketing Digital Y GestiÃ³n De Contenidos @ Canarias.com
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Asistente Virtual de Recursos Humanos Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
+8. Â¿QuerÃ©s sumarte a liderar cripto en LATAM Dejanos tu perfil ð @ Ripio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Social Media Moderator @ RemoteVA
+1. Submit Your Resume @ Nelson Motors and Equipment
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Auxiliar de Oficina General Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
+2. Futuros Profesionales Trainee AutomatizaciÃ³n de Procesos @ Universia Argentina
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Asistente Virtual de Recursos Humanos ContrataciÃ³n Inmediata @ Universia MÃ©xico
+3. Team Member @ Leicester Arms
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Auxiliar de Oficina General Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
+4. Junior Brand Designer @ Twine
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Asistente Virtual de Recursos Humanos Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
+5. Auxiliar de Oficina General Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Auxiliar de Oficina General Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
+6. Especialista En Marketing Digital Y GestiÃ³n De Contenidos @ Canarias.com
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Asistente Virtual de Recursos Humanos Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
+7. Especialista En Marketing Digital Y GestiÃ³n De Contenidos @ Canarias.com
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Asistente Virtual de Recursos Humanos Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
+8. Â¿QuerÃ©s sumarte a liderar cripto en LATAM Dejanos tu perfil ð @ Ripio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
