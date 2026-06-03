@@ -1,38 +1,38 @@
-# 6/2/2026 AI Opportunity Radar Distribution Copy
+# 6/3/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Submit Your Resume @ Nelson Motors and Equipment
+1. XML DCA @ Integra
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Futuros Profesionales Trainee AutomatizaciÃ³n de Procesos @ Universia Argentina
+2. UGC Content Creator The Good Creator Collective @ The Good Influence
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Team Member @ Leicester Arms
+3. Ejecutivo comercial Industria alimentaria @ Universia PerÃº
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Junior Brand Designer @ Twine
+4. ANALISTA DE SERVICE DESK @ Revvo
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Auxiliar de Oficina General Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
+5. Auxiliar de NÃ³minas y AdministraciÃ³n @ Universia MÃ©xico
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Especialista En Marketing Digital Y GestiÃ³n De Contenidos @ Canarias.com
+6. Digital Account Manager @ Connoisseur Media
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Especialista En Marketing Digital Y GestiÃ³n De Contenidos @ Canarias.com
+7. Business Manager @ Connoisseur Media
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Â¿QuerÃ©s sumarte a liderar cripto en LATAM Dejanos tu perfil ð @ Ripio
+8. Human Resources Generalist @ Bravas
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Submit Your Resume @ Nelson Motors and Equipment
+1. XML DCA @ Integra
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Futuros Profesionales Trainee AutomatizaciÃ³n de Procesos @ Universia Argentina
+2. UGC Content Creator The Good Creator Collective @ The Good Influence
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Team Member @ Leicester Arms
+3. Ejecutivo comercial Industria alimentaria @ Universia PerÃº
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Junior Brand Designer @ Twine
+4. ANALISTA DE SERVICE DESK @ Revvo
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Auxiliar de Oficina General Modalidad Remota o HÃ­brida ContrataciÃ³n Inmediata @ Universia MÃ©xico
+5. Auxiliar de NÃ³minas y AdministraciÃ³n @ Universia MÃ©xico
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Especialista En Marketing Digital Y GestiÃ³n De Contenidos @ Canarias.com
+6. Digital Account Manager @ Connoisseur Media
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Especialista En Marketing Digital Y GestiÃ³n De Contenidos @ Canarias.com
+7. Business Manager @ Connoisseur Media
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Â¿QuerÃ©s sumarte a liderar cripto en LATAM Dejanos tu perfil ð @ Ripio
+8. Human Resources Generalist @ Bravas
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
