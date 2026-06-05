@@ -1,38 +1,38 @@
-# 6/4/2026 AI Opportunity Radar Distribution Copy
+# 6/5/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Customer Support @ RecruitLytics Hires
+1. Multiple @ Eastern Airlines LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Team Member Positions Taco Bell Butler @ Taco Bell Australia
+2. Digital Marketing Manager @ Nabu Casa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Assistente de Recursos Humanos Trabalho Remoto @ BairesDev
+3. Digital Marketing Manager @ Nabu Casa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. CLT ProduÃ§Ã£o ArtÃ­stico Editorial Narratrix Brasil @ Portal Vagas Terceiro Setor
+4. Digital Marketing Manager @ Nabu Casa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. English Subtitle Specialist @ MrBeast
+5. Digital Marketing Manager @ Nabu Casa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Merchandising Representative @ CELSIUS
+6. Digital Marketing Manager @ Nabu Casa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Merchandising Representative @ CELSIUS
+7. Digital Marketing Manager @ Nabu Casa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Employee Drivers @ Jet Delivery, Inc
+8. Digital Marketing Manager @ Nabu Casa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Customer Support @ RecruitLytics Hires
+1. Multiple @ Eastern Airlines LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Team Member Positions Taco Bell Butler @ Taco Bell Australia
+2. Digital Marketing Manager @ Nabu Casa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Assistente de Recursos Humanos Trabalho Remoto @ BairesDev
+3. Digital Marketing Manager @ Nabu Casa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. CLT ProduÃ§Ã£o ArtÃ­stico Editorial Narratrix Brasil @ Portal Vagas Terceiro Setor
+4. Digital Marketing Manager @ Nabu Casa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. English Subtitle Specialist @ MrBeast
+5. Digital Marketing Manager @ Nabu Casa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Merchandising Representative @ CELSIUS
+6. Digital Marketing Manager @ Nabu Casa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Merchandising Representative @ CELSIUS
+7. Digital Marketing Manager @ Nabu Casa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Employee Drivers @ Jet Delivery, Inc
+8. Digital Marketing Manager @ Nabu Casa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
