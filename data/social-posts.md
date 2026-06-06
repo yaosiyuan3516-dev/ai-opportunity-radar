@@ -1,38 +1,38 @@
-# 6/5/2026 AI Opportunity Radar Distribution Copy
+# 6/6/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Multiple @ Eastern Airlines LLC
+1. Forecast Analyst @ REI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Digital Marketing Manager @ Nabu Casa
+2. Associate @ Buyers Blueprint
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Digital Marketing Manager @ Nabu Casa
+3. Care Coordinator @ SonderMind
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Digital Marketing Manager @ Nabu Casa
+4. Docentes de licenciatura online UANE @ Lottus Education
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Digital Marketing Manager @ Nabu Casa
+5. Data Entry @ Ryz Labs
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Digital Marketing Manager @ Nabu Casa
+6. Learning &amp; Development Specialist @ NestlÃ© Health Science
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Digital Marketing Manager @ Nabu Casa
+7. Influencer Marketing Coordinator @ Newhouse
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Digital Marketing Manager @ Nabu Casa
+8. Freelance Video Editor @ Forbes Advisor
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Multiple @ Eastern Airlines LLC
+1. Forecast Analyst @ REI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Digital Marketing Manager @ Nabu Casa
+2. Associate @ Buyers Blueprint
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Digital Marketing Manager @ Nabu Casa
+3. Care Coordinator @ SonderMind
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Digital Marketing Manager @ Nabu Casa
+4. Docentes de licenciatura online UANE @ Lottus Education
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Digital Marketing Manager @ Nabu Casa
+5. Data Entry @ Ryz Labs
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Digital Marketing Manager @ Nabu Casa
+6. Learning &amp; Development Specialist @ NestlÃ© Health Science
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Digital Marketing Manager @ Nabu Casa
+7. Influencer Marketing Coordinator @ Newhouse
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Digital Marketing Manager @ Nabu Casa
+8. Freelance Video Editor @ Forbes Advisor
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
