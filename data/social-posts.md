@@ -1,38 +1,38 @@
-# 6/6/2026 AI Opportunity Radar Distribution Copy
+# 6/7/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Forecast Analyst @ REI
+1. Sourcing Specialist @ Theoria Medical
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Associate @ Buyers Blueprint
+2. Head of Banking Operations @ DoorDash USA
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Care Coordinator @ SonderMind
+3. Territory Business Development Manager USMC @ Shield AI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Docentes de licenciatura online UANE @ Lottus Education
+4. Customer Service Rep I @ SanMar-Internal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Data Entry @ Ryz Labs
+5. Senior Director Global Delivery Services @ Elite Technology
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Learning &amp; Development Specialist @ NestlÃ© Health Science
+6. Vice President People @ KIPP Foundation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Influencer Marketing Coordinator @ Newhouse
+7. Executive Assistant @ AWISEE
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Freelance Video Editor @ Forbes Advisor
+8. Data Analyst @ StioÂ®
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Forecast Analyst @ REI
+1. Sourcing Specialist @ Theoria Medical
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Associate @ Buyers Blueprint
+2. Head of Banking Operations @ DoorDash USA
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Care Coordinator @ SonderMind
+3. Territory Business Development Manager USMC @ Shield AI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Docentes de licenciatura online UANE @ Lottus Education
+4. Customer Service Rep I @ SanMar-Internal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Data Entry @ Ryz Labs
+5. Senior Director Global Delivery Services @ Elite Technology
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Learning &amp; Development Specialist @ NestlÃ© Health Science
+6. Vice President People @ KIPP Foundation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Influencer Marketing Coordinator @ Newhouse
+7. Executive Assistant @ AWISEE
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Freelance Video Editor @ Forbes Advisor
+8. Data Analyst @ StioÂ®
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
