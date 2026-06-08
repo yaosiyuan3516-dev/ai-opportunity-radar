@@ -1,38 +1,38 @@
-# 6/7/2026 AI Opportunity Radar Distribution Copy
+# 6/8/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Sourcing Specialist @ Theoria Medical
+1. VC Associate @ Toyota Research Institute
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Head of Banking Operations @ DoorDash USA
+2. Graphic Narrator @ Resilient Solutions Plus, LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Territory Business Development Manager USMC @ Shield AI
+3. Chief of Staff @ Malama Health
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Customer Service Rep I @ SanMar-Internal
+4. Applied AI Engineer @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Senior Director Global Delivery Services @ Elite Technology
+5. Senior ML Engineer @ Clutch
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Vice President People @ KIPP Foundation
+6. Data Annotator @ CodeGeniusRecruit
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Executive Assistant @ AWISEE
+7. Multi Grade Geographically Position @ School District No. 27
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Data Analyst @ StioÂ®
+8. Administrative Support @ Vish Consulting IT
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Sourcing Specialist @ Theoria Medical
+1. VC Associate @ Toyota Research Institute
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Head of Banking Operations @ DoorDash USA
+2. Graphic Narrator @ Resilient Solutions Plus, LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Territory Business Development Manager USMC @ Shield AI
+3. Chief of Staff @ Malama Health
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Customer Service Rep I @ SanMar-Internal
+4. Applied AI Engineer @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Senior Director Global Delivery Services @ Elite Technology
+5. Senior ML Engineer @ Clutch
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Vice President People @ KIPP Foundation
+6. Data Annotator @ CodeGeniusRecruit
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Executive Assistant @ AWISEE
+7. Multi Grade Geographically Position @ School District No. 27
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Data Analyst @ StioÂ®
+8. Administrative Support @ Vish Consulting IT
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
