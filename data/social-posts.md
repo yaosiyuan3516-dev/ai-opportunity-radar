@@ -1,38 +1,38 @@
-# 6/8/2026 AI Opportunity Radar Distribution Copy
+# 6/9/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. VC Associate @ Toyota Research Institute
+1. Asistente Administrativo @ Accenture MÃ©xico
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Graphic Narrator @ Resilient Solutions Plus, LLC
+2. Business Intelligence Analyst @ Joblinxsapp
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Chief of Staff @ Malama Health
+3. Regional Managing Director Canada @ Little Caesars Pizza
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Applied AI Engineer @ Bjak 
+4. Judicial Law Clerk @ LegalTrustAI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Senior ML Engineer @ Clutch
+5. Driving Examiner @ Department of Customer Services, Open Data and Small and Family Business
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Data Annotator @ CodeGeniusRecruit
+6. Farmer REMOTO @ ADVBOX
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Multi Grade Geographically Position @ School District No. 27
+7. Caretaker @ Suffolk Jobs Direct
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Administrative Support @ Vish Consulting IT
+8. Studio Coordinator @ Rockhunter
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. VC Associate @ Toyota Research Institute
+1. Asistente Administrativo @ Accenture MÃ©xico
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Graphic Narrator @ Resilient Solutions Plus, LLC
+2. Business Intelligence Analyst @ Joblinxsapp
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Chief of Staff @ Malama Health
+3. Regional Managing Director Canada @ Little Caesars Pizza
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Applied AI Engineer @ Bjak 
+4. Judicial Law Clerk @ LegalTrustAI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Senior ML Engineer @ Clutch
+5. Driving Examiner @ Department of Customer Services, Open Data and Small and Family Business
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Data Annotator @ CodeGeniusRecruit
+6. Farmer REMOTO @ ADVBOX
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Multi Grade Geographically Position @ School District No. 27
+7. Caretaker @ Suffolk Jobs Direct
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Administrative Support @ Vish Consulting IT
+8. Studio Coordinator @ Rockhunter
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
