@@ -1,38 +1,38 @@
-# 6/9/2026 AI Opportunity Radar Distribution Copy
+# 6/10/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Asistente Administrativo @ Accenture MÃ©xico
+1. Web Designer @ Regex SEO
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Business Intelligence Analyst @ Joblinxsapp
+2. Environmental Scientists @ STEM Sync AI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Regional Managing Director Canada @ Little Caesars Pizza
+3. Asesor a call center remoto @ Shalom
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Judicial Law Clerk @ LegalTrustAI
+4. Data Scientist @ YO HR Consultancy
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Driving Examiner @ Department of Customer Services, Open Data and Small and Family Business
+5. Junior Illustrator @ Twine
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Farmer REMOTO @ ADVBOX
+6. Data Analyst @ Stio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Caretaker @ Suffolk Jobs Direct
+7. Customer Service Associate Representative Cigna Healthcare @ Cigna Healthcare
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Studio Coordinator @ Rockhunter
+8. $100k starting bonus with up $56 WRVU ED Overnight Teleradiology 10 and 8 hour options @ American Society of Neuroradiology
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Asistente Administrativo @ Accenture MÃ©xico
+1. Web Designer @ Regex SEO
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Business Intelligence Analyst @ Joblinxsapp
+2. Environmental Scientists @ STEM Sync AI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Regional Managing Director Canada @ Little Caesars Pizza
+3. Asesor a call center remoto @ Shalom
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Judicial Law Clerk @ LegalTrustAI
+4. Data Scientist @ YO HR Consultancy
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Driving Examiner @ Department of Customer Services, Open Data and Small and Family Business
+5. Junior Illustrator @ Twine
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Farmer REMOTO @ ADVBOX
+6. Data Analyst @ Stio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Caretaker @ Suffolk Jobs Direct
+7. Customer Service Associate Representative Cigna Healthcare @ Cigna Healthcare
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Studio Coordinator @ Rockhunter
+8. $100k starting bonus with up $56 WRVU ED Overnight Teleradiology 10 and 8 hour options @ American Society of Neuroradiology
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
