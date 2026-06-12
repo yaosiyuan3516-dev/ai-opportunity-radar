@@ -1,38 +1,38 @@
-# 6/11/2026 AI Opportunity Radar Distribution Copy
+# 6/12/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. PROJECT SPECIALIST HEALTHCARE @ iMPROve Health
+1. E&C Estimator @ Shermco Industries
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Entry Level Administrative Assistant @ Re-cruit-Lytic
+2. Administrative Assistant @ Somewhere
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Entry Level Administrative Assistant @ Re-cruit-Lytic
+3. Medical Virtual Assistant @ Virtual Rockstar Careers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Card Fraud Specialist @ Nymbus
+4. COURIER @ DHL Express
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Inside Sales Team Leader @ The CareSide
+5. Casual Customer Service Executive @ Arsenal Football Club
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. San Diego @ TECHSICO
+6. Asistente Ejecutivo a y de Operaciones @ our common home
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Payroll Coordinator @ Honey Bucket
+7. Clinical Research Professional @ CuraSenseAI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Don't See A Perfect Role Apply Anyway @ Pogo
+8. English speaking Support Associate @ Wolt
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. PROJECT SPECIALIST HEALTHCARE @ iMPROve Health
+1. E&C Estimator @ Shermco Industries
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Entry Level Administrative Assistant @ Re-cruit-Lytic
+2. Administrative Assistant @ Somewhere
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Entry Level Administrative Assistant @ Re-cruit-Lytic
+3. Medical Virtual Assistant @ Virtual Rockstar Careers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Card Fraud Specialist @ Nymbus
+4. COURIER @ DHL Express
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Inside Sales Team Leader @ The CareSide
+5. Casual Customer Service Executive @ Arsenal Football Club
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. San Diego @ TECHSICO
+6. Asistente Ejecutivo a y de Operaciones @ our common home
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Payroll Coordinator @ Honey Bucket
+7. Clinical Research Professional @ CuraSenseAI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Don't See A Perfect Role Apply Anyway @ Pogo
+8. English speaking Support Associate @ Wolt
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
