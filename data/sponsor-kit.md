@@ -1,11 +1,11 @@
 # AI Opportunity Radar Sponsor Kit
 
-Updated: 6/12/2026
+Updated: 6/13/2026
 
 ## Audience
 
 - Builders, solopreneurs, indie hackers, automation consultants, and AI tool buyers
-- Categories: Remote Jobs, Open Source, Monetization
+- Categories: Remote Jobs, Open Source, Monetization, AI Tools
 - Current signals: 36
 
 ## Sponsor Slots
