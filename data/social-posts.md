@@ -1,38 +1,38 @@
-# 6/14/2026 AI Opportunity Radar Distribution Copy
+# 6/15/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Chat Suppore @ OnlineJobs.PH
+1. Medical Scribe Female Only @ Angel City VA Recruitment
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Junior ML Engineer @ Work Force Nexus
+2. test @ Fluidstack
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Se solicita Gestor de Cobros @ Tu Empleo RD
+3. Illustrator @ Odixcity Consulting
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Administrative Assistant @ aramco
+4. Programa Futuros Profesionales Productos Digitales @ Universia Argentina
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Template @ Pizza Pilgrims
+5. Customer Service Representative @ Point72
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Administrative Assistant @ aramco
+6. Various Positions @ Northern News Services
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Administrative Assistant @ aramco
+7. Chat Suppore @ OnlineJobs.PH
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Administrative Assistant @ aramco
+8. Junior ML Engineer @ Work Force Nexus
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Chat Suppore @ OnlineJobs.PH
+1. Medical Scribe Female Only @ Angel City VA Recruitment
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Junior ML Engineer @ Work Force Nexus
+2. test @ Fluidstack
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Se solicita Gestor de Cobros @ Tu Empleo RD
+3. Illustrator @ Odixcity Consulting
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Administrative Assistant @ aramco
+4. Programa Futuros Profesionales Productos Digitales @ Universia Argentina
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Template @ Pizza Pilgrims
+5. Customer Service Representative @ Point72
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Administrative Assistant @ aramco
+6. Various Positions @ Northern News Services
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Administrative Assistant @ aramco
+7. Chat Suppore @ OnlineJobs.PH
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Administrative Assistant @ aramco
+8. Junior ML Engineer @ Work Force Nexus
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
