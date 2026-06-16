@@ -1,38 +1,38 @@
-# 6/15/2026 AI Opportunity Radar Distribution Copy
+# 6/16/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Medical Scribe Female Only @ Angel City VA Recruitment
+1. Operations Executive @ EFICYENT
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. test @ Fluidstack
+2. Entry Level Administrative Assistant @ RecruitLytixs Hire
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Illustrator @ Odixcity Consulting
+3. Learning And Development Specialist @ DTI (Diversified Technology Inc.)
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Programa Futuros Profesionales Productos Digitales @ Universia Argentina
+4. Executive Assistant the Founders @ Silhouette Group Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Customer Service Representative @ Point72
+5. Admin Virtual Assistant @ myVA Rocks
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Various Positions @ Northern News Services
+6. Social Media Marketing Specialist @ Strange Face
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Chat Suppore @ OnlineJobs.PH
+7. Brand Designer Project @ Twine
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Junior ML Engineer @ Work Force Nexus
+8. Production Utility @ FXI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Medical Scribe Female Only @ Angel City VA Recruitment
+1. Operations Executive @ EFICYENT
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. test @ Fluidstack
+2. Entry Level Administrative Assistant @ RecruitLytixs Hire
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Illustrator @ Odixcity Consulting
+3. Learning And Development Specialist @ DTI (Diversified Technology Inc.)
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Programa Futuros Profesionales Productos Digitales @ Universia Argentina
+4. Executive Assistant the Founders @ Silhouette Group Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Customer Service Representative @ Point72
+5. Admin Virtual Assistant @ myVA Rocks
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Various Positions @ Northern News Services
+6. Social Media Marketing Specialist @ Strange Face
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Chat Suppore @ OnlineJobs.PH
+7. Brand Designer Project @ Twine
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Junior ML Engineer @ Work Force Nexus
+8. Production Utility @ FXI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
