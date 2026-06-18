@@ -1,38 +1,38 @@
-# 6/17/2026 AI Opportunity Radar Distribution Copy
+# 6/18/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Become a Student Life Coach Flexible Role UK Â£20 Â£40 hr @ FindTutors
+1. Scheduling Coordinator @ Classet
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Startup Investment & Strategy Specialist @ CapitexAI
+2. Junior Customer Success Representative @ Mission Inbox
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Founding Designer @ Leap
+3. Customer Service Agent @ OnlineJobs.PH
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Venture Capital & Startup Investment Expert @ CapitexAI
+4. Business Development Representative @ Bucket Listers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. FP&A Analyst @ CapitexAI
+5. Content & Social Media Executive @ Work Force Nexus
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. North America Field Marketing and Events Manager @ Rithum
+6. Creative Copywriter @ Deadpan ð ð¬
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Talent Acquisition Partner @ Peak Credit Union
+7. Pharmacovigilance Associate Position @ Puma Biotechnology, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. DevSecOps Engineer @ TrueML
+8. Test posting @ Vortex Companies - Trenchless Infrastructure Rehabilitation Solutions
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Become a Student Life Coach Flexible Role UK Â£20 Â£40 hr @ FindTutors
+1. Scheduling Coordinator @ Classet
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Startup Investment & Strategy Specialist @ CapitexAI
+2. Junior Customer Success Representative @ Mission Inbox
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Founding Designer @ Leap
+3. Customer Service Agent @ OnlineJobs.PH
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Venture Capital & Startup Investment Expert @ CapitexAI
+4. Business Development Representative @ Bucket Listers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. FP&A Analyst @ CapitexAI
+5. Content & Social Media Executive @ Work Force Nexus
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. North America Field Marketing and Events Manager @ Rithum
+6. Creative Copywriter @ Deadpan ð ð¬
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Talent Acquisition Partner @ Peak Credit Union
+7. Pharmacovigilance Associate Position @ Puma Biotechnology, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. DevSecOps Engineer @ TrueML
+8. Test posting @ Vortex Companies - Trenchless Infrastructure Rehabilitation Solutions
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
