@@ -1,38 +1,38 @@
-# 6/20/2026 AI Opportunity Radar Distribution Copy
+# 6/21/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Executive & Admin Assistant @ Nexist
+1. Product Manager @ Cambridge Spark
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Corporate Commercial Paralegal Fully @ Leadenhall Search & Selection
+2. Document Review Paralegals Fully Project @ Montresor Legal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. AdministraÃ§Ã£o Virtual Segunda a Sexta USD $5 hr Remoto @ Elevate Teams
+3. Social Media Manager â Luxury Fashion TikTok & Instagram @ Parisa Wang
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Coordenador de Marketing Criativo @ KÄsper
+4. Certified CMMC Assessor @ OCT Consulting, LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Analista de Relacionamento com o Cliente Jr Remoto @ Shopper.com.br
+5. Growth Product Manager @ AltaML
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Analista de Software SÃªnior @ Banco BV
+6. Customer Support Associate @ Max Retail
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Desktop Support Technician @ Pathway Communications
+7. Cleaner @ Dexterra
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. TEST JOB AD 2 @ TEST
+8. General Virtual Assistant @ Ateneo de Manila University
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Executive & Admin Assistant @ Nexist
+1. Product Manager @ Cambridge Spark
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Corporate Commercial Paralegal Fully @ Leadenhall Search & Selection
+2. Document Review Paralegals Fully Project @ Montresor Legal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. AdministraÃ§Ã£o Virtual Segunda a Sexta USD $5 hr Remoto @ Elevate Teams
+3. Social Media Manager â Luxury Fashion TikTok & Instagram @ Parisa Wang
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Coordenador de Marketing Criativo @ KÄsper
+4. Certified CMMC Assessor @ OCT Consulting, LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Analista de Relacionamento com o Cliente Jr Remoto @ Shopper.com.br
+5. Growth Product Manager @ AltaML
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Analista de Software SÃªnior @ Banco BV
+6. Customer Support Associate @ Max Retail
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Desktop Support Technician @ Pathway Communications
+7. Cleaner @ Dexterra
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. TEST JOB AD 2 @ TEST
+8. General Virtual Assistant @ Ateneo de Manila University
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
