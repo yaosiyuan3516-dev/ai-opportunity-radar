@@ -1,38 +1,38 @@
-# 6/21/2026 AI Opportunity Radar Distribution Copy
+# 6/22/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Product Manager @ Cambridge Spark
+1. Research and Quality Assistant @ Cardiovascular Associates of America - CVAUSA
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Document Review Paralegals Fully Project @ Montresor Legal
+2. Members Don't Join for Dollar Value @ Steward
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Social Media Manager â Luxury Fashion TikTok & Instagram @ Parisa Wang
+3. Differentiating Membership Offers @ Steward
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Certified CMMC Assessor @ OCT Consulting, LLC
+4. Freelance Designer @ Houseink Studio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Growth Product Manager @ AltaML
+5. Director of Operations MSP Service Delivery @ bdManagedIT
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Customer Support Associate @ Max Retail
+6. TRANSPORT @ Mississippi Army National Guard Biloxi Office
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Cleaner @ Dexterra
+7. CYBER @ Mississippi Army National Guard Biloxi Office
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. General Virtual Assistant @ Ateneo de Manila University
+8. CHRO @ NeuLife Rehabilitation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Product Manager @ Cambridge Spark
+1. Research and Quality Assistant @ Cardiovascular Associates of America - CVAUSA
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Document Review Paralegals Fully Project @ Montresor Legal
+2. Members Don't Join for Dollar Value @ Steward
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Social Media Manager â Luxury Fashion TikTok & Instagram @ Parisa Wang
+3. Differentiating Membership Offers @ Steward
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Certified CMMC Assessor @ OCT Consulting, LLC
+4. Freelance Designer @ Houseink Studio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Growth Product Manager @ AltaML
+5. Director of Operations MSP Service Delivery @ bdManagedIT
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Customer Support Associate @ Max Retail
+6. TRANSPORT @ Mississippi Army National Guard Biloxi Office
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Cleaner @ Dexterra
+7. CYBER @ Mississippi Army National Guard Biloxi Office
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. General Virtual Assistant @ Ateneo de Manila University
+8. CHRO @ NeuLife Rehabilitation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
