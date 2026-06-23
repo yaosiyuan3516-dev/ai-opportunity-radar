@@ -1,38 +1,38 @@
-# 6/22/2026 AI Opportunity Radar Distribution Copy
+# 6/23/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Research and Quality Assistant @ Cardiovascular Associates of America - CVAUSA
+1. Data Analyst @ iConsultera
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Members Don't Join for Dollar Value @ Steward
+2. Marketing Coordinator @ Blackstone Talent Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Differentiating Membership Offers @ Steward
+3. Director of Credit Risk @ Made Card
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Freelance Designer @ Houseink Studio
+4. Area Sales Manager Chicago @ Garage Beer
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Director of Operations MSP Service Delivery @ bdManagedIT
+5. Area Sales Manager Michigan @ Garage Beer
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. TRANSPORT @ Mississippi Army National Guard Biloxi Office
+6. Digital Marketing Designer @ Format
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. CYBER @ Mississippi Army National Guard Biloxi Office
+7. Amazon Forecasting Analyst @ Buffalo Games
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. CHRO @ NeuLife Rehabilitation
+8. Junior Supply Chain Analyst @ Helic & Co
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Research and Quality Assistant @ Cardiovascular Associates of America - CVAUSA
+1. Data Analyst @ iConsultera
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Members Don't Join for Dollar Value @ Steward
+2. Marketing Coordinator @ Blackstone Talent Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Differentiating Membership Offers @ Steward
+3. Director of Credit Risk @ Made Card
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Freelance Designer @ Houseink Studio
+4. Area Sales Manager Chicago @ Garage Beer
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Director of Operations MSP Service Delivery @ bdManagedIT
+5. Area Sales Manager Michigan @ Garage Beer
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. TRANSPORT @ Mississippi Army National Guard Biloxi Office
+6. Digital Marketing Designer @ Format
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. CYBER @ Mississippi Army National Guard Biloxi Office
+7. Amazon Forecasting Analyst @ Buffalo Games
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. CHRO @ NeuLife Rehabilitation
+8. Junior Supply Chain Analyst @ Helic & Co
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
