@@ -1,38 +1,38 @@
-# 6/23/2026 AI Opportunity Radar Distribution Copy
+# 6/24/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Data Analyst @ iConsultera
+1. Logistics Coordinator @ Altis Recruitment
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Marketing Coordinator @ Blackstone Talent Group
+2. Assistant Project Manager Fragrance @ Slate Brands
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Director of Credit Risk @ Made Card
+3. Head of Public Understanding @ NOPE
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Area Sales Manager Chicago @ Garage Beer
+4. Freelance Website Copywriter Content Strategist @ N4 StudioÂ®
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Area Sales Manager Michigan @ Garage Beer
+5. Biology Research Expert â $65 $95 hour @ 24-MAG
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Digital Marketing Designer @ Format
+6. Family Success Specialist @ bina
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Amazon Forecasting Analyst @ Buffalo Games
+7. Gardener @ Fairmont Hotels &amp; Resorts
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Junior Supply Chain Analyst @ Helic & Co
+8. EbizON Content Writer II Dehradun @ EbizON
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Data Analyst @ iConsultera
+1. Logistics Coordinator @ Altis Recruitment
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Marketing Coordinator @ Blackstone Talent Group
+2. Assistant Project Manager Fragrance @ Slate Brands
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Director of Credit Risk @ Made Card
+3. Head of Public Understanding @ NOPE
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Area Sales Manager Chicago @ Garage Beer
+4. Freelance Website Copywriter Content Strategist @ N4 StudioÂ®
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Area Sales Manager Michigan @ Garage Beer
+5. Biology Research Expert â $65 $95 hour @ 24-MAG
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Digital Marketing Designer @ Format
+6. Family Success Specialist @ bina
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Amazon Forecasting Analyst @ Buffalo Games
+7. Gardener @ Fairmont Hotels &amp; Resorts
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Junior Supply Chain Analyst @ Helic & Co
+8. EbizON Content Writer II Dehradun @ EbizON
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
