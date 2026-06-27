@@ -1,38 +1,38 @@
-# 6/26/2026 AI Opportunity Radar Distribution Copy
+# 6/27/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. System Software Engineer @ Hewlett Packard Enterprise
+1. I am looking for guide @ Mixed Media Labs, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Account Coordinator @ Acast
+2. View Open Positions @ Minds Worth Meeting Podcast
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Meeting Coordinator @ Canvas Meetings & Incentives
+3. Vice President Supply Chain @ Ramp Talent
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Field Reliability Engineer LATAM @ Honeycomb.io
+4. Asistente de Cuentas Marketing BTL Weldon @ Universia Argentina
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Curso HumanizaciÃ³n del Servicio @ Comfenalco Valle delagente
+5. Water Safety Specialist @ Four Seasons
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Marketing Manager Social Media Content Creation @ Academy of Television Arts &amp; Sciences
+6. Chief Growth Officer @ Berni and Mick Ireland
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Lead Creative Strategist @ New Engen
+7. Leakage Inspector @ Williams Tucker Limited
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Office Support Role Pratham Education Foundation @ UN Remote Jobss
+8. Line inspector @ Job Buzzer
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. System Software Engineer @ Hewlett Packard Enterprise
+1. I am looking for guide @ Mixed Media Labs, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Account Coordinator @ Acast
+2. View Open Positions @ Minds Worth Meeting Podcast
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Meeting Coordinator @ Canvas Meetings & Incentives
+3. Vice President Supply Chain @ Ramp Talent
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Field Reliability Engineer LATAM @ Honeycomb.io
+4. Asistente de Cuentas Marketing BTL Weldon @ Universia Argentina
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Curso HumanizaciÃ³n del Servicio @ Comfenalco Valle delagente
+5. Water Safety Specialist @ Four Seasons
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Marketing Manager Social Media Content Creation @ Academy of Television Arts &amp; Sciences
+6. Chief Growth Officer @ Berni and Mick Ireland
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Lead Creative Strategist @ New Engen
+7. Leakage Inspector @ Williams Tucker Limited
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Office Support Role Pratham Education Foundation @ UN Remote Jobss
+8. Line inspector @ Job Buzzer
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
