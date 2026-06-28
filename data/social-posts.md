@@ -1,38 +1,38 @@
-# 6/27/2026 AI Opportunity Radar Distribution Copy
+# 6/28/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. I am looking for guide @ Mixed Media Labs, Inc.
+1. Video Editor @ OnlineJobs.PH
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. View Open Positions @ Minds Worth Meeting Podcast
+2. Freelance Designer @ SAN Creatives Agency
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Vice President Supply Chain @ Ramp Talent
+3. Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados @ Neon Pagamentos
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Asistente de Cuentas Marketing BTL Weldon @ Universia Argentina
+4. Property Maintenance &amp; Operations Coordinator @ Dart
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Water Safety Specialist @ Four Seasons
+5. Common Energy @ Office of Energy &amp; Sustainability
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Chief Growth Officer @ Berni and Mick Ireland
+6. Stok @ Office of Energy &amp; Sustainability
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Leakage Inspector @ Williams Tucker Limited
+7. IoT Specialist @ Jasper Solutions Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Line inspector @ Job Buzzer
+8. People Operations Specialist @ VulnCheck
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. I am looking for guide @ Mixed Media Labs, Inc.
+1. Video Editor @ OnlineJobs.PH
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. View Open Positions @ Minds Worth Meeting Podcast
+2. Freelance Designer @ SAN Creatives Agency
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Vice President Supply Chain @ Ramp Talent
+3. Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados @ Neon Pagamentos
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Asistente de Cuentas Marketing BTL Weldon @ Universia Argentina
+4. Property Maintenance &amp; Operations Coordinator @ Dart
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Water Safety Specialist @ Four Seasons
+5. Common Energy @ Office of Energy &amp; Sustainability
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Chief Growth Officer @ Berni and Mick Ireland
+6. Stok @ Office of Energy &amp; Sustainability
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Leakage Inspector @ Williams Tucker Limited
+7. IoT Specialist @ Jasper Solutions Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Line inspector @ Job Buzzer
+8. People Operations Specialist @ VulnCheck
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
