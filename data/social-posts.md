@@ -1,38 +1,38 @@
-# 6/28/2026 AI Opportunity Radar Distribution Copy
+# 6/29/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Video Editor @ OnlineJobs.PH
+1. JANITOR @ Buffalo Wild Wings - Fralich, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Freelance Designer @ SAN Creatives Agency
+2. Senior Counsel Project Finance &amp; Commercial @ Energy Vault
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados @ Neon Pagamentos
+3. DOCUMENT FORMATTING SPECIALIST @ Sharon Wells
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Property Maintenance &amp; Operations Coordinator @ Dart
+4. Industry Analysis @ Citofield
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Common Energy @ Office of Energy &amp; Sustainability
+5. Technical Lead @ IT FUTURZ
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Stok @ Office of Energy &amp; Sustainability
+6. Content @ Den danske seermÃ¥ling
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. IoT Specialist @ Jasper Solutions Inc.
+7. Ut Facere Aut @ Innodrei
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. People Operations Specialist @ VulnCheck
+8. Error Odio @ Innodrei
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Video Editor @ OnlineJobs.PH
+1. JANITOR @ Buffalo Wild Wings - Fralich, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Freelance Designer @ SAN Creatives Agency
+2. Senior Counsel Project Finance &amp; Commercial @ Energy Vault
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Product Growth Expert Acquisition Afirmativa para Pessoas de Grupos Sub representados @ Neon Pagamentos
+3. DOCUMENT FORMATTING SPECIALIST @ Sharon Wells
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Property Maintenance &amp; Operations Coordinator @ Dart
+4. Industry Analysis @ Citofield
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Common Energy @ Office of Energy &amp; Sustainability
+5. Technical Lead @ IT FUTURZ
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Stok @ Office of Energy &amp; Sustainability
+6. Content @ Den danske seermÃ¥ling
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. IoT Specialist @ Jasper Solutions Inc.
+7. Ut Facere Aut @ Innodrei
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. People Operations Specialist @ VulnCheck
+8. Error Odio @ Innodrei
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
