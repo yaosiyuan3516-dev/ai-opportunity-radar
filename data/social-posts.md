@@ -1,38 +1,38 @@
-# 6/29/2026 AI Opportunity Radar Distribution Copy
+# 6/30/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. JANITOR @ Buffalo Wild Wings - Fralich, Inc.
+1. Customer Support Helpdesk Specialist @ Empathy Talent
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Senior Counsel Project Finance &amp; Commercial @ Energy Vault
+2. Admissions Coordinator @ Discovery Institute Drug &amp; Alcohol Rehab New Jersey
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. DOCUMENT FORMATTING SPECIALIST @ Sharon Wells
+3. WAREHOUSE OFFICER @ COACTUM RPE
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Industry Analysis @ Citofield
+4. Job Title @ QB Corporation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Technical Lead @ IT FUTURZ
+5. Senior Counsel Project Finance &amp; Commercial @ Energy Vault
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Content @ Den danske seermÃ¥ling
+6. DOCUMENT FORMATTING SPECIALIST @ Sharon Wells
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Ut Facere Aut @ Innodrei
+7. Industry Analysis @ Citofield
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Error Odio @ Innodrei
+8. Technical Lead @ IT FUTURZ
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. JANITOR @ Buffalo Wild Wings - Fralich, Inc.
+1. Customer Support Helpdesk Specialist @ Empathy Talent
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Senior Counsel Project Finance &amp; Commercial @ Energy Vault
+2. Admissions Coordinator @ Discovery Institute Drug &amp; Alcohol Rehab New Jersey
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. DOCUMENT FORMATTING SPECIALIST @ Sharon Wells
+3. WAREHOUSE OFFICER @ COACTUM RPE
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Industry Analysis @ Citofield
+4. Job Title @ QB Corporation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Technical Lead @ IT FUTURZ
+5. Senior Counsel Project Finance &amp; Commercial @ Energy Vault
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Content @ Den danske seermÃ¥ling
+6. DOCUMENT FORMATTING SPECIALIST @ Sharon Wells
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Ut Facere Aut @ Innodrei
+7. Industry Analysis @ Citofield
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Error Odio @ Innodrei
+8. Technical Lead @ IT FUTURZ
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
