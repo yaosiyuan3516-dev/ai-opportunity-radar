@@ -1,38 +1,38 @@
-# 6/30/2026 AI Opportunity Radar Distribution Copy
+# 7/1/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Customer Support Helpdesk Specialist @ Empathy Talent
+1. Speculative @ Flok Health
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Admissions Coordinator @ Discovery Institute Drug &amp; Alcohol Rehab New Jersey
+2. Accommodation Administrator FIFO 14 7 Roster Cairns Queensland @ Sodexo
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. WAREHOUSE OFFICER @ COACTUM RPE
+3. Caretaker Manor Park Primary School @ Isle of Man Public Service Careers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Job Title @ QB Corporation
+4. Vice President Operations @ Aventum Search
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Senior Counsel Project Finance &amp; Commercial @ Energy Vault
+5. HR Lead @ Wowza
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. DOCUMENT FORMATTING SPECIALIST @ Sharon Wells
+6. LEAD @ ABM Industries
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Industry Analysis @ Citofield
+7. Housekeeper Kabannas Newcastle @ Kabannas
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Technical Lead @ IT FUTURZ
+8. Freelance Designer @ Haus
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Customer Support Helpdesk Specialist @ Empathy Talent
+1. Speculative @ Flok Health
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Admissions Coordinator @ Discovery Institute Drug &amp; Alcohol Rehab New Jersey
+2. Accommodation Administrator FIFO 14 7 Roster Cairns Queensland @ Sodexo
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. WAREHOUSE OFFICER @ COACTUM RPE
+3. Caretaker Manor Park Primary School @ Isle of Man Public Service Careers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Job Title @ QB Corporation
+4. Vice President Operations @ Aventum Search
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Senior Counsel Project Finance &amp; Commercial @ Energy Vault
+5. HR Lead @ Wowza
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. DOCUMENT FORMATTING SPECIALIST @ Sharon Wells
+6. LEAD @ ABM Industries
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Industry Analysis @ Citofield
+7. Housekeeper Kabannas Newcastle @ Kabannas
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Technical Lead @ IT FUTURZ
+8. Freelance Designer @ Haus
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
