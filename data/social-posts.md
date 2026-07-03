@@ -1,38 +1,38 @@
-# 7/2/2026 AI Opportunity Radar Distribution Copy
+# 7/3/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Asistente administrativa @ Syntepro S.A de C.V.
+1. Heading @ bankari.sk
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Tutor profesor clases particulares mÃºltiples actividades @ Apprentus
+2. Industry Officer @ Department of Justice and Community Safety, Victoria
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Growth &amp; Success Manager @ Medida AI
+3. Creative @ The Elites
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Template @ Justworks
+4. 12 jobs that pay well without a degree @ Bluefield Daily Telegraph
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Class 1 Shunt Driver @ Coca-Cola Canada Bottling Limited
+5. Clinical Proofreader Editor @ 4 Corner Resources
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Social Media and Influencer Manager @ Pete &amp; Gerry's Organics, LLC
+6. Social Media Coordinator @ The Nature Conservancy
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. SVP Banking Operations @ Nymbus
+7. Orientador a Laboral Freelance Remoto @ Ironhack
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. ...the seekrette is discovering what you love and doing it often.. @ seekrette
+8. Executive Assistant @ EfficientAide
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Asistente administrativa @ Syntepro S.A de C.V.
+1. Heading @ bankari.sk
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Tutor profesor clases particulares mÃºltiples actividades @ Apprentus
+2. Industry Officer @ Department of Justice and Community Safety, Victoria
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Growth &amp; Success Manager @ Medida AI
+3. Creative @ The Elites
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Template @ Justworks
+4. 12 jobs that pay well without a degree @ Bluefield Daily Telegraph
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Class 1 Shunt Driver @ Coca-Cola Canada Bottling Limited
+5. Clinical Proofreader Editor @ 4 Corner Resources
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Social Media and Influencer Manager @ Pete &amp; Gerry's Organics, LLC
+6. Social Media Coordinator @ The Nature Conservancy
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. SVP Banking Operations @ Nymbus
+7. Orientador a Laboral Freelance Remoto @ Ironhack
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. ...the seekrette is discovering what you love and doing it often.. @ seekrette
+8. Executive Assistant @ EfficientAide
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
