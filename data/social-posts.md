@@ -1,38 +1,38 @@
-# 7/3/2026 AI Opportunity Radar Distribution Copy
+# 7/4/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Heading @ bankari.sk
+1. Technician 3 @ Sunbelt Rentals, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Industry Officer @ Department of Justice and Community Safety, Victoria
+2. Specialist Payroll @ Delta Air Lines
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Creative @ The Elites
+3. Product Manager Solar Inverters @ TMEIC Corporation Americas
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. 12 jobs that pay well without a degree @ Bluefield Daily Telegraph
+4. 5 Ways Be a Better Listener @ Unigo
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Clinical Proofreader Editor @ 4 Corner Resources
+5. VP Creative @ Kanahoma
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Social Media Coordinator @ The Nature Conservancy
+6. VP Paid Media @ Kanahoma
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Orientador a Laboral Freelance Remoto @ Ironhack
+7. Department Supervisor @ The Home Depot Canada
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Executive Assistant @ EfficientAide
+8. Peer Specialist Maternal Health @ Canopie
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Heading @ bankari.sk
+1. Technician 3 @ Sunbelt Rentals, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Industry Officer @ Department of Justice and Community Safety, Victoria
+2. Specialist Payroll @ Delta Air Lines
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Creative @ The Elites
+3. Product Manager Solar Inverters @ TMEIC Corporation Americas
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. 12 jobs that pay well without a degree @ Bluefield Daily Telegraph
+4. 5 Ways Be a Better Listener @ Unigo
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Clinical Proofreader Editor @ 4 Corner Resources
+5. VP Creative @ Kanahoma
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Social Media Coordinator @ The Nature Conservancy
+6. VP Paid Media @ Kanahoma
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Orientador a Laboral Freelance Remoto @ Ironhack
+7. Department Supervisor @ The Home Depot Canada
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Executive Assistant @ EfficientAide
+8. Peer Specialist Maternal Health @ Canopie
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
