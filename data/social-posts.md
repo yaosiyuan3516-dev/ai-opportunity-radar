@@ -1,38 +1,38 @@
-# 7/4/2026 AI Opportunity Radar Distribution Copy
+# 7/5/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Technician 3 @ Sunbelt Rentals, Inc.
+1. Online Casino Game Tester @ RG&amp;T Solutions
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Specialist Payroll @ Delta Air Lines
+2. Member of Marketing Staff @ Slingshot
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Product Manager Solar Inverters @ TMEIC Corporation Americas
+3. All Positions @ Tamworth Regional Council
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. 5 Ways Be a Better Listener @ Unigo
+4. Manager HR Business Partner @ LinkedIn
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. VP Creative @ Kanahoma
+5. Business Analyst @ Blockchain.com
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. VP Paid Media @ Kanahoma
+6. Special Services Associate AIRDRIE @ The Home Depot Canada
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Department Supervisor @ The Home Depot Canada
+7. f @ Ajax Systems
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Peer Specialist Maternal Health @ Canopie
+8. Senior Quality Engineer @ Tellent
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Technician 3 @ Sunbelt Rentals, Inc.
+1. Online Casino Game Tester @ RG&amp;T Solutions
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Specialist Payroll @ Delta Air Lines
+2. Member of Marketing Staff @ Slingshot
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Product Manager Solar Inverters @ TMEIC Corporation Americas
+3. All Positions @ Tamworth Regional Council
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. 5 Ways Be a Better Listener @ Unigo
+4. Manager HR Business Partner @ LinkedIn
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. VP Creative @ Kanahoma
+5. Business Analyst @ Blockchain.com
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. VP Paid Media @ Kanahoma
+6. Special Services Associate AIRDRIE @ The Home Depot Canada
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Department Supervisor @ The Home Depot Canada
+7. f @ Ajax Systems
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Peer Specialist Maternal Health @ Canopie
+8. Senior Quality Engineer @ Tellent
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
