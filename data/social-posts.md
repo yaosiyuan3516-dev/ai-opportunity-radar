@@ -1,38 +1,38 @@
-# 7/5/2026 AI Opportunity Radar Distribution Copy
+# 7/6/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Online Casino Game Tester @ RG&amp;T Solutions
+1. Supply Chain Analyst @ DIVA
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Member of Marketing Staff @ Slingshot
+2. dishwasher @ PÃ¼r &amp; Simple
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. All Positions @ Tamworth Regional Council
+3. Human Resources Generalist @ CoberonChronos
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Manager HR Business Partner @ LinkedIn
+4. Lead Data Scientist @ Brigit
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Business Analyst @ Blockchain.com
+5. Administrative Assistant @ Pickle
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Special Services Associate AIRDRIE @ The Home Depot Canada
+6. Founder Ghostwriter for a U.S. based Google Ads Agency @ Paired
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. f @ Ajax Systems
+7. Customer Support @ Recruitlytics Hiring
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Senior Quality Engineer @ Tellent
+8. Entry Level Administrative Assistant @ Recruitlytics Hiring
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Online Casino Game Tester @ RG&amp;T Solutions
+1. Supply Chain Analyst @ DIVA
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Member of Marketing Staff @ Slingshot
+2. dishwasher @ PÃ¼r &amp; Simple
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. All Positions @ Tamworth Regional Council
+3. Human Resources Generalist @ CoberonChronos
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Manager HR Business Partner @ LinkedIn
+4. Lead Data Scientist @ Brigit
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Business Analyst @ Blockchain.com
+5. Administrative Assistant @ Pickle
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Special Services Associate AIRDRIE @ The Home Depot Canada
+6. Founder Ghostwriter for a U.S. based Google Ads Agency @ Paired
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. f @ Ajax Systems
+7. Customer Support @ Recruitlytics Hiring
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Senior Quality Engineer @ Tellent
+8. Entry Level Administrative Assistant @ Recruitlytics Hiring
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
