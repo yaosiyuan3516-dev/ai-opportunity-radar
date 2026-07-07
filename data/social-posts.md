@@ -1,38 +1,38 @@
-# 7/6/2026 AI Opportunity Radar Distribution Copy
+# 7/7/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Supply Chain Analyst @ DIVA
+1. Expression of Interest @ Easygo
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. dishwasher @ PÃ¼r &amp; Simple
+2. Head of Hiring and Training South FL @ 7 Brew Coffee
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Human Resources Generalist @ CoberonChronos
+3. Human Resources Generalist Manager @ Seasoned Recruitment
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Lead Data Scientist @ Brigit
+4. Content Creator @ medicomedics
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Administrative Assistant @ Pickle
+5. Business Analyst @ Rotaract Club of NIBM Kandy
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Founder Ghostwriter for a U.S. based Google Ads Agency @ Paired
+6. Innovation @ Doshi Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Customer Support @ Recruitlytics Hiring
+7. Public Relations Manager @ Temu
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Entry Level Administrative Assistant @ Recruitlytics Hiring
+8. Supply Chain Analyst @ DIVA
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Supply Chain Analyst @ DIVA
+1. Expression of Interest @ Easygo
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. dishwasher @ PÃ¼r &amp; Simple
+2. Head of Hiring and Training South FL @ 7 Brew Coffee
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Human Resources Generalist @ CoberonChronos
+3. Human Resources Generalist Manager @ Seasoned Recruitment
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Lead Data Scientist @ Brigit
+4. Content Creator @ medicomedics
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Administrative Assistant @ Pickle
+5. Business Analyst @ Rotaract Club of NIBM Kandy
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Founder Ghostwriter for a U.S. based Google Ads Agency @ Paired
+6. Innovation @ Doshi Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Customer Support @ Recruitlytics Hiring
+7. Public Relations Manager @ Temu
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Entry Level Administrative Assistant @ Recruitlytics Hiring
+8. Supply Chain Analyst @ DIVA
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
