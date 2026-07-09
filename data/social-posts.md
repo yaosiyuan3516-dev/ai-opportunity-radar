@@ -1,38 +1,38 @@
-# 7/8/2026 AI Opportunity Radar Distribution Copy
+# 7/9/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Lifeguard @ Accor
+1. Architectural Drafter Designer @ OnlineJobs.PH
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Dutch Speaking Customer Service Agent For Imperial Work from Home Greece @ Mercier Consultancy
+2. Data Entry Specialist Assistant Administrator @ ReLytics Hire
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Multi Trader @ B&amp;R HOME
+3. Virtual Executive Assistant @ ReLytics Hire
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Testing Testing Test @ Gold Standard
+4. Customer Support @ ReLytics Hire
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Operations Supervisor Healthcare South Georgia @ Belle
+5. Entry Level Administrative Assistant @ ReLytics Hire
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Construction Inspector @ AECOM
+6. Project Manager @ Queensland Government
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. AttachÃ© Juridique F H @ AFE (Audit Finance Expert)
+7. Data Entry Typist @ Argus Medical Management, LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Operator Red days @ Princes Group
+8. RTW Driver @ Parkland Corporation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Lifeguard @ Accor
+1. Architectural Drafter Designer @ OnlineJobs.PH
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Dutch Speaking Customer Service Agent For Imperial Work from Home Greece @ Mercier Consultancy
+2. Data Entry Specialist Assistant Administrator @ ReLytics Hire
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Multi Trader @ B&amp;R HOME
+3. Virtual Executive Assistant @ ReLytics Hire
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Testing Testing Test @ Gold Standard
+4. Customer Support @ ReLytics Hire
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Operations Supervisor Healthcare South Georgia @ Belle
+5. Entry Level Administrative Assistant @ ReLytics Hire
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Construction Inspector @ AECOM
+6. Project Manager @ Queensland Government
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. AttachÃ© Juridique F H @ AFE (Audit Finance Expert)
+7. Data Entry Typist @ Argus Medical Management, LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Operator Red days @ Princes Group
+8. RTW Driver @ Parkland Corporation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
