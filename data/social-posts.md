@@ -1,38 +1,38 @@
-# 7/9/2026 AI Opportunity Radar Distribution Copy
+# 7/10/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Architectural Drafter Designer @ OnlineJobs.PH
+1. Update Add Your Resume Any Position EOI Infrastructure Projects @ Bellwether Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Data Entry Specialist Assistant Administrator @ ReLytics Hire
+2. Coordinador de Medio Ambiente y Desarrollo Comunitario @ Wisefind
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Virtual Executive Assistant @ ReLytics Hire
+3. Docente Tiempo Parcial Desarrollo de Psicomotricidad en Primera Infancia Remoto @ Universidad Privada del Norte
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Customer Support @ ReLytics Hire
+4. Docente Tiempo Parcial ElaboraciÃ³n Materiales Educativos Nivel Primaria SJL @ Universidad Privada del Norte
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Entry Level Administrative Assistant @ ReLytics Hire
+5. Docente Tiempo Parcial ElaboraciÃ³n Materiales Educativos Primera Infancia SJL @ Universidad Privada del Norte
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Project Manager @ Queensland Government
+6. Dispatch Coordinator I @ Belle
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Data Entry Typist @ Argus Medical Management, LLC
+7. Pesquisador em Teoria da MudanÃ§a @ Instituto Cordial
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. RTW Driver @ Parkland Corporation
+8. Founder's Office Finance Super App @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Architectural Drafter Designer @ OnlineJobs.PH
+1. Update Add Your Resume Any Position EOI Infrastructure Projects @ Bellwether Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Data Entry Specialist Assistant Administrator @ ReLytics Hire
+2. Coordinador de Medio Ambiente y Desarrollo Comunitario @ Wisefind
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Virtual Executive Assistant @ ReLytics Hire
+3. Docente Tiempo Parcial Desarrollo de Psicomotricidad en Primera Infancia Remoto @ Universidad Privada del Norte
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Customer Support @ ReLytics Hire
+4. Docente Tiempo Parcial ElaboraciÃ³n Materiales Educativos Nivel Primaria SJL @ Universidad Privada del Norte
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Entry Level Administrative Assistant @ ReLytics Hire
+5. Docente Tiempo Parcial ElaboraciÃ³n Materiales Educativos Primera Infancia SJL @ Universidad Privada del Norte
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Project Manager @ Queensland Government
+6. Dispatch Coordinator I @ Belle
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Data Entry Typist @ Argus Medical Management, LLC
+7. Pesquisador em Teoria da MudanÃ§a @ Instituto Cordial
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. RTW Driver @ Parkland Corporation
+8. Founder's Office Finance Super App @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
