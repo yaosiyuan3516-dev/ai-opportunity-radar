@@ -1,38 +1,38 @@
-# 7/11/2026 AI Opportunity Radar Distribution Copy
+# 7/12/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Australian English Voice Actor Adelaide @ OpsArmy Careers
+1. You @ DQC | Data Quality Company
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Support Technician Level 1 2 @ Magic Memories
+2. DPS Employee II @ Paw Paw Police Dept
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Customer Success Manager @ INNERGY
+3. Assistente de Gente e Cultura JÃºnior @ JOYn Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Warehouse Inventory Clerk @ Caribbean Bottling Company (Bahamas) Ltd.
+4. Driver @ Urban Movers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Diver @ Amentum
+5. Analista de AtraÃ§Ã£o e SeleÃ§Ã£o TemporÃ¡rio @ Lojas Renner S.A.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Nanny @ Jovie
+6. and Academic Specialist All Subjects @ Sinica Education
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Health Navigator I @ Moda Health
+7. WAREHOUSE OFFICER @ Nexilon Energy Systems Pvt. Ltd.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Senior Creative Designer Design Strategist @ Digital
+8. ASSISTENTE ADMINISTRATIVO BARUERI SP @ SGS
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Australian English Voice Actor Adelaide @ OpsArmy Careers
+1. You @ DQC | Data Quality Company
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Support Technician Level 1 2 @ Magic Memories
+2. DPS Employee II @ Paw Paw Police Dept
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Customer Success Manager @ INNERGY
+3. Assistente de Gente e Cultura JÃºnior @ JOYn Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Warehouse Inventory Clerk @ Caribbean Bottling Company (Bahamas) Ltd.
+4. Driver @ Urban Movers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Diver @ Amentum
+5. Analista de AtraÃ§Ã£o e SeleÃ§Ã£o TemporÃ¡rio @ Lojas Renner S.A.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Nanny @ Jovie
+6. and Academic Specialist All Subjects @ Sinica Education
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Health Navigator I @ Moda Health
+7. WAREHOUSE OFFICER @ Nexilon Energy Systems Pvt. Ltd.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Senior Creative Designer Design Strategist @ Digital
+8. ASSISTENTE ADMINISTRATIVO BARUERI SP @ SGS
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
