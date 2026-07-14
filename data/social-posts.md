@@ -1,38 +1,38 @@
-# 7/13/2026 AI Opportunity Radar Distribution Copy
+# 7/14/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Apply Here @ Conquer AI
+1. Business Analyst @ InterEx Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. HR Assistant @ RemoteVA
+2. Executive Management @ Netball America
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Interface Designer @ Grow the Roses
+3. Auxiliar Administrativo Comercial Remoto @ Empresa Confidencial
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. General Applicant Position @ Hunt Remotely
+4. The Role @ Artefacts / Asteria ART
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Healthcare Intake Coordinator Alberta @ Carewell
+5. Customer Service Chat Representative @ Orchestrate Consulting Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Creative Strategist @ JTS Growth
+6. Architectural Drafter Designer @ DevHub
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Social Media Content Creator @ Classet
+7. Freelance Background Artist for YouTube Studio @ DevHub
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Video Editor Off Season @ Atlanta Gladiators
+8. Data Entry Typist @ DevHub
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Apply Here @ Conquer AI
+1. Business Analyst @ InterEx Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. HR Assistant @ RemoteVA
+2. Executive Management @ Netball America
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Interface Designer @ Grow the Roses
+3. Auxiliar Administrativo Comercial Remoto @ Empresa Confidencial
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. General Applicant Position @ Hunt Remotely
+4. The Role @ Artefacts / Asteria ART
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Healthcare Intake Coordinator Alberta @ Carewell
+5. Customer Service Chat Representative @ Orchestrate Consulting Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Creative Strategist @ JTS Growth
+6. Architectural Drafter Designer @ DevHub
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Social Media Content Creator @ Classet
+7. Freelance Background Artist for YouTube Studio @ DevHub
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Video Editor Off Season @ Atlanta Gladiators
+8. Data Entry Typist @ DevHub
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
