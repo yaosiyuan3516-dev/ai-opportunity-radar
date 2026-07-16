@@ -1,38 +1,38 @@
-# 7/15/2026 AI Opportunity Radar Distribution Copy
+# 7/16/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Handyperson @ WMJobs
+1. Programa de EstÃ¡gio FormaÃ§Ã£o em Vendas SDR Remoto @ Nibo
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Motion Designer @ Pragmatike
+2. ASSISTENTE ADMINISTRATIVO CADASTRO CONTROLADORIA Remoto @ Empresa Confidencial
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Junior Content Writer @ SupportYourApp
+3. Customer Support Agent @ UMAEZ LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Data Entry Clerk Data Entry Specialist @ Burjline Builders
+4. Medical Records and Health Information Manager @ Backpack Healthcare
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Online Tutoring Jobs Teaching Vacancy @ GCE-ACADEMY
+5. Licensed Mental Health Therapist @ Backpack Healthcare
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Create Your Own @ Vitalize
+6. Video Podcast Editor @ Betches Media
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. AtenciÃ³n a Clientes Remoto @ Siigo
+7. Chief Growth Officer @ Original Peptide
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Analista de LogÃ­stica @ Universia Argentina
+8. Chain Account Manager @ CELSIUS
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Handyperson @ WMJobs
+1. Programa de EstÃ¡gio FormaÃ§Ã£o em Vendas SDR Remoto @ Nibo
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Motion Designer @ Pragmatike
+2. ASSISTENTE ADMINISTRATIVO CADASTRO CONTROLADORIA Remoto @ Empresa Confidencial
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Junior Content Writer @ SupportYourApp
+3. Customer Support Agent @ UMAEZ LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Data Entry Clerk Data Entry Specialist @ Burjline Builders
+4. Medical Records and Health Information Manager @ Backpack Healthcare
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Online Tutoring Jobs Teaching Vacancy @ GCE-ACADEMY
+5. Licensed Mental Health Therapist @ Backpack Healthcare
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Create Your Own @ Vitalize
+6. Video Podcast Editor @ Betches Media
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. AtenciÃ³n a Clientes Remoto @ Siigo
+7. Chief Growth Officer @ Original Peptide
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Analista de LogÃ­stica @ Universia Argentina
+8. Chain Account Manager @ CELSIUS
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
