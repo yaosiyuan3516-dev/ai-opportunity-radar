@@ -1,38 +1,38 @@
-# 7/16/2026 AI Opportunity Radar Distribution Copy
+# 7/17/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Programa de EstÃ¡gio FormaÃ§Ã£o em Vendas SDR Remoto @ Nibo
+1. Create Your Own Role @ NewsletterJobs.io
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. ASSISTENTE ADMINISTRATIVO CADASTRO CONTROLADORIA Remoto @ Empresa Confidencial
+2. Publisher @ NewsletterJobs.io
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Customer Support Agent @ UMAEZ LLC
+3. Asesor de AtenciÃ³n al Cliente Inmobiliario Call center Remoto @ Los Portales
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Medical Records and Health Information Manager @ Backpack Healthcare
+4. Open Position â Dauphine @ Uptown Theatre for Creative Arts
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Licensed Mental Health Therapist @ Backpack Healthcare
+5. Danny @ Pinter
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Video Podcast Editor @ Betches Media
+6. COURIER @ Doctors Hospital
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Chief Growth Officer @ Original Peptide
+7. Patient Scheduler II @ Essentia Health
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Chain Account Manager @ CELSIUS
+8. Operations Administrator @ Work Force Nexus
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Programa de EstÃ¡gio FormaÃ§Ã£o em Vendas SDR Remoto @ Nibo
+1. Create Your Own Role @ NewsletterJobs.io
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. ASSISTENTE ADMINISTRATIVO CADASTRO CONTROLADORIA Remoto @ Empresa Confidencial
+2. Publisher @ NewsletterJobs.io
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Customer Support Agent @ UMAEZ LLC
+3. Asesor de AtenciÃ³n al Cliente Inmobiliario Call center Remoto @ Los Portales
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Medical Records and Health Information Manager @ Backpack Healthcare
+4. Open Position â Dauphine @ Uptown Theatre for Creative Arts
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Licensed Mental Health Therapist @ Backpack Healthcare
+5. Danny @ Pinter
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Video Podcast Editor @ Betches Media
+6. COURIER @ Doctors Hospital
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Chief Growth Officer @ Original Peptide
+7. Patient Scheduler II @ Essentia Health
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Chain Account Manager @ CELSIUS
+8. Operations Administrator @ Work Force Nexus
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
