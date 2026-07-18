@@ -1,38 +1,38 @@
-# 7/17/2026 AI Opportunity Radar Distribution Copy
+# 7/18/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Create Your Own Role @ NewsletterJobs.io
+1. Adelaide @ Dobinsons Spring &amp; Suspension - Middle East &amp; Africa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Publisher @ NewsletterJobs.io
+2. Sydney @ Dobinsons Spring &amp; Suspension - Middle East &amp; Africa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Asesor de AtenciÃ³n al Cliente Inmobiliario Call center Remoto @ Los Portales
+3. Admin &amp; Operation English Speaker @ KitaLulus
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Open Position â Dauphine @ Uptown Theatre for Creative Arts
+4. National Account Manager Foodservice @ Georgia Pacific
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Danny @ Pinter
+5. Content Marketing Manager @ Planned Parenthood of Greater New York
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. COURIER @ Doctors Hospital
+6. Creador de Contenido Pago por Video @ Freedx
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Patient Scheduler II @ Essentia Health
+7. Agente de Reservas Hospitality @ Stay U-nique
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Operations Administrator @ Work Force Nexus
+8. Analista de Testes Pleno @ Melhor Envio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Create Your Own Role @ NewsletterJobs.io
+1. Adelaide @ Dobinsons Spring &amp; Suspension - Middle East &amp; Africa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Publisher @ NewsletterJobs.io
+2. Sydney @ Dobinsons Spring &amp; Suspension - Middle East &amp; Africa
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Asesor de AtenciÃ³n al Cliente Inmobiliario Call center Remoto @ Los Portales
+3. Admin &amp; Operation English Speaker @ KitaLulus
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Open Position â Dauphine @ Uptown Theatre for Creative Arts
+4. National Account Manager Foodservice @ Georgia Pacific
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Danny @ Pinter
+5. Content Marketing Manager @ Planned Parenthood of Greater New York
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. COURIER @ Doctors Hospital
+6. Creador de Contenido Pago por Video @ Freedx
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Patient Scheduler II @ Essentia Health
+7. Agente de Reservas Hospitality @ Stay U-nique
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Operations Administrator @ Work Force Nexus
+8. Analista de Testes Pleno @ Melhor Envio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
