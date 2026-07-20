@@ -1,38 +1,38 @@
-# 7/19/2026 AI Opportunity Radar Distribution Copy
+# 7/20/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Contribute Building a Secure Nation @ Adani Skills &amp; Education
+1. SU Administrative Assistant @ Somewhere
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Asistente Administrativo @ Blanco Silva ConsultorÃ­a InformÃ¡tica - BSCI -
+2. Details @ Majer Unternehmens-Gruppe
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. UGC Creator @ ren
+3. Graphic Designer @ DOSED
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Yacht Cleaner @ Travelopia
+4. Shafqat @ HireTalentt
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Addetto a Customer Service @ CasinÃ² Lugano SA
+5. Administrative Specialist @ Dade Medical College-Hialeah
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Care Specialist @ Empathy
+6. OJALA @ Flash Free Lancer
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Patient Access Scheduler Centralized Scheduling FT 8 30A 5P @ Orchestrate Consulting Group
+7. MANUFACTURING POSITIONS @ Allied Packaging Corporation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Social Media Assistant Instagram @ OnlineJobs.PH
+8. Placement Officer @ Grey Sim Learnings Foundation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Contribute Building a Secure Nation @ Adani Skills &amp; Education
+1. SU Administrative Assistant @ Somewhere
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Asistente Administrativo @ Blanco Silva ConsultorÃ­a InformÃ¡tica - BSCI -
+2. Details @ Majer Unternehmens-Gruppe
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. UGC Creator @ ren
+3. Graphic Designer @ DOSED
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Yacht Cleaner @ Travelopia
+4. Shafqat @ HireTalentt
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Addetto a Customer Service @ CasinÃ² Lugano SA
+5. Administrative Specialist @ Dade Medical College-Hialeah
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Care Specialist @ Empathy
+6. OJALA @ Flash Free Lancer
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Patient Access Scheduler Centralized Scheduling FT 8 30A 5P @ Orchestrate Consulting Group
+7. MANUFACTURING POSITIONS @ Allied Packaging Corporation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Social Media Assistant Instagram @ OnlineJobs.PH
+8. Placement Officer @ Grey Sim Learnings Foundation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
