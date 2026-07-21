@@ -1,38 +1,38 @@
-# 7/20/2026 AI Opportunity Radar Distribution Copy
+# 7/21/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. SU Administrative Assistant @ Somewhere
+1. Open sollicitatie @ Hibernis
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Details @ Majer Unternehmens-Gruppe
+2. Analista CobranÃ§a Jr Remoto @ SuperlÃ³gica Tecnologias
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Graphic Designer @ DOSED
+3. Representante de Vendas Educacionais @ Kodland
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Shafqat @ HireTalentt
+4. Data Mapping Analyst @ Buyers Edge Platform, LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Administrative Specialist @ Dade Medical College-Hialeah
+5. Night Cleaning Crew @ Billings Family YMCA
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. OJALA @ Flash Free Lancer
+6. HR Manager Fast Growing E Commerce Startup @ Skinnify
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. MANUFACTURING POSITIONS @ Allied Packaging Corporation
+7. Applied AI Product Strategy & Revenue Lead @ Prime Intellect
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Placement Officer @ Grey Sim Learnings Foundation
+8. Closer SaaS B2B @ Buzzmonitor
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. SU Administrative Assistant @ Somewhere
+1. Open sollicitatie @ Hibernis
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Details @ Majer Unternehmens-Gruppe
+2. Analista CobranÃ§a Jr Remoto @ SuperlÃ³gica Tecnologias
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Graphic Designer @ DOSED
+3. Representante de Vendas Educacionais @ Kodland
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Shafqat @ HireTalentt
+4. Data Mapping Analyst @ Buyers Edge Platform, LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Administrative Specialist @ Dade Medical College-Hialeah
+5. Night Cleaning Crew @ Billings Family YMCA
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. OJALA @ Flash Free Lancer
+6. HR Manager Fast Growing E Commerce Startup @ Skinnify
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. MANUFACTURING POSITIONS @ Allied Packaging Corporation
+7. Applied AI Product Strategy & Revenue Lead @ Prime Intellect
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Placement Officer @ Grey Sim Learnings Foundation
+8. Closer SaaS B2B @ Buzzmonitor
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
