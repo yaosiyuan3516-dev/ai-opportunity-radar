@@ -1,38 +1,38 @@
-# 7/21/2026 AI Opportunity Radar Distribution Copy
+# 7/22/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Open sollicitatie @ Hibernis
+1. Customer Experience Specialist @ DraftKings Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Analista CobranÃ§a Jr Remoto @ SuperlÃ³gica Tecnologias
+2. Auxiliar de Relacionamento Cirurgias Corporativo SP @ Rede D'Or
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Representante de Vendas Educacionais @ Kodland
+3. Insta @ Hakatemia
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Data Mapping Analyst @ Buyers Edge Platform, LLC
+4. Nixu @ Hakatemia
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Night Cleaning Crew @ Billings Family YMCA
+5. ACCENTURE @ Hakatemia
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. HR Manager Fast Growing E Commerce Startup @ Skinnify
+6. Rippling @ StackAmplify
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Applied AI Product Strategy & Revenue Lead @ Prime Intellect
+7. Leeds @ Suzuki Garphyttan Wire ï¼Suzhouï¼ Co., Ltd           éæ¨å æ®è¾é¢ä¸ï¼èå·ï¼æéå¬å¸
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Closer SaaS B2B @ Buzzmonitor
+8. Head of People @ Bizee
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Open sollicitatie @ Hibernis
+1. Customer Experience Specialist @ DraftKings Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Analista CobranÃ§a Jr Remoto @ SuperlÃ³gica Tecnologias
+2. Auxiliar de Relacionamento Cirurgias Corporativo SP @ Rede D'Or
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Representante de Vendas Educacionais @ Kodland
+3. Insta @ Hakatemia
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Data Mapping Analyst @ Buyers Edge Platform, LLC
+4. Nixu @ Hakatemia
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Night Cleaning Crew @ Billings Family YMCA
+5. ACCENTURE @ Hakatemia
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. HR Manager Fast Growing E Commerce Startup @ Skinnify
+6. Rippling @ StackAmplify
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Applied AI Product Strategy & Revenue Lead @ Prime Intellect
+7. Leeds @ Suzuki Garphyttan Wire ï¼Suzhouï¼ Co., Ltd           éæ¨å æ®è¾é¢ä¸ï¼èå·ï¼æéå¬å¸
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Closer SaaS B2B @ Buzzmonitor
+8. Head of People @ Bizee
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
