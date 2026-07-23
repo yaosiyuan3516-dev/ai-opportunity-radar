@@ -1,38 +1,38 @@
-# 7/22/2026 AI Opportunity Radar Distribution Copy
+# 7/23/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Customer Experience Specialist @ DraftKings Inc.
+1. Operator @ East Coast Green
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Auxiliar de Relacionamento Cirurgias Corporativo SP @ Rede D'Or
+2. Skilled Laborer @ East Coast Green
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Insta @ Hakatemia
+3. Marketing Associate @ Red Rover
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Nixu @ Hakatemia
+4. Help Desk IT Support Specialist @ Umpisa Inc
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. ACCENTURE @ Hakatemia
+5. Handy Person @ Accor
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Rippling @ StackAmplify
+6. Life Guard @ Accor
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Leeds @ Suzuki Garphyttan Wire ï¼Suzhouï¼ Co., Ltd           éæ¨å æ®è¾é¢ä¸ï¼èå·ï¼æéå¬å¸
+7. Monitor PedagÃ³gico OAB @ VÃ­cio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Head of People @ Bizee
+8. Interest Great Yellow @ Great Yellow
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Customer Experience Specialist @ DraftKings Inc.
+1. Operator @ East Coast Green
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Auxiliar de Relacionamento Cirurgias Corporativo SP @ Rede D'Or
+2. Skilled Laborer @ East Coast Green
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Insta @ Hakatemia
+3. Marketing Associate @ Red Rover
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Nixu @ Hakatemia
+4. Help Desk IT Support Specialist @ Umpisa Inc
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. ACCENTURE @ Hakatemia
+5. Handy Person @ Accor
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Rippling @ StackAmplify
+6. Life Guard @ Accor
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Leeds @ Suzuki Garphyttan Wire ï¼Suzhouï¼ Co., Ltd           éæ¨å æ®è¾é¢ä¸ï¼èå·ï¼æéå¬å¸
+7. Monitor PedagÃ³gico OAB @ VÃ­cio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Head of People @ Bizee
+8. Interest Great Yellow @ Great Yellow
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
