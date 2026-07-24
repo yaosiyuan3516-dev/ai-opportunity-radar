@@ -1,38 +1,38 @@
-# 7/23/2026 AI Opportunity Radar Distribution Copy
+# 7/24/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Operator @ East Coast Green
+1. WYNN G.. @ æ·±å³å¸åæµ·è·¨å¢ç¼ç§ææéå¬å¸ Kuajingyan Tech Co.,Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Skilled Laborer @ East Coast Green
+2. Consultor para estrategia de SBC de Primera Infancia Programme Effectiveness Quito Ecuador Remoto 7 meses Nacional @ UNICEF Bangladesh
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Marketing Associate @ Red Rover
+3. CoordenaÃ§Ã£o de Tecnologia I CloudOps @ Aurum
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Help Desk IT Support Specialist @ Umpisa Inc
+4. Appointment Setter @ Everlast Bathrooms
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Handy Person @ Accor
+5. Analista de Atendimento TEMPORÃRIO Remoto @ Melhor Envio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Life Guard @ Accor
+6. Programa de EstÃ¡gio Atendimento Remoto @ Nibo
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Monitor PedagÃ³gico OAB @ VÃ­cio
+7. Vice President Field Services @ Verra Mobility
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Interest Great Yellow @ Great Yellow
+8. Laborer needed @ Lsn
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Operator @ East Coast Green
+1. WYNN G.. @ æ·±å³å¸åæµ·è·¨å¢ç¼ç§ææéå¬å¸ Kuajingyan Tech Co.,Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Skilled Laborer @ East Coast Green
+2. Consultor para estrategia de SBC de Primera Infancia Programme Effectiveness Quito Ecuador Remoto 7 meses Nacional @ UNICEF Bangladesh
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Marketing Associate @ Red Rover
+3. CoordenaÃ§Ã£o de Tecnologia I CloudOps @ Aurum
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Help Desk IT Support Specialist @ Umpisa Inc
+4. Appointment Setter @ Everlast Bathrooms
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Handy Person @ Accor
+5. Analista de Atendimento TEMPORÃRIO Remoto @ Melhor Envio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Life Guard @ Accor
+6. Programa de EstÃ¡gio Atendimento Remoto @ Nibo
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Monitor PedagÃ³gico OAB @ VÃ­cio
+7. Vice President Field Services @ Verra Mobility
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Interest Great Yellow @ Great Yellow
+8. Laborer needed @ Lsn
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
