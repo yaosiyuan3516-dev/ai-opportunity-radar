@@ -1,38 +1,38 @@
-# 7/24/2026 AI Opportunity Radar Distribution Copy
+# 7/25/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. WYNN G.. @ æ·±å³å¸åæµ·è·¨å¢ç¼ç§ææéå¬å¸ Kuajingyan Tech Co.,Ltd
+1. Freelance 3D Architectural Modeller UK Hours @ CGconnect
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Consultor para estrategia de SBC de Primera Infancia Programme Effectiveness Quito Ecuador Remoto 7 meses Nacional @ UNICEF Bangladesh
+2. Project Coordinator @ Outsource Access Careers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. CoordenaÃ§Ã£o de Tecnologia I CloudOps @ Aurum
+3. Math Teacher @ MatheMagis Singapore Maths
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Appointment Setter @ Everlast Bathrooms
+4. Australian Bookkeeping Assistant @ 24x7 Direct
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Analista de Atendimento TEMPORÃRIO Remoto @ Melhor Envio
+5. Paralegal @ Giga Energy
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Programa de EstÃ¡gio Atendimento Remoto @ Nibo
+6. Product Designer @ Flint
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Vice President Field Services @ Verra Mobility
+7. Executive Assistant @ Ritual AdsÂ®
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Laborer needed @ Lsn
+8. Analista de Infraestrutura Pleno DevOps @ Melhor Envio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. WYNN G.. @ æ·±å³å¸åæµ·è·¨å¢ç¼ç§ææéå¬å¸ Kuajingyan Tech Co.,Ltd
+1. Freelance 3D Architectural Modeller UK Hours @ CGconnect
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Consultor para estrategia de SBC de Primera Infancia Programme Effectiveness Quito Ecuador Remoto 7 meses Nacional @ UNICEF Bangladesh
+2. Project Coordinator @ Outsource Access Careers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. CoordenaÃ§Ã£o de Tecnologia I CloudOps @ Aurum
+3. Math Teacher @ MatheMagis Singapore Maths
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Appointment Setter @ Everlast Bathrooms
+4. Australian Bookkeeping Assistant @ 24x7 Direct
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Analista de Atendimento TEMPORÃRIO Remoto @ Melhor Envio
+5. Paralegal @ Giga Energy
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Programa de EstÃ¡gio Atendimento Remoto @ Nibo
+6. Product Designer @ Flint
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Vice President Field Services @ Verra Mobility
+7. Executive Assistant @ Ritual AdsÂ®
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Laborer needed @ Lsn
+8. Analista de Infraestrutura Pleno DevOps @ Melhor Envio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
