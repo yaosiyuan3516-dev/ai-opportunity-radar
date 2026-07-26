@@ -1,38 +1,38 @@
-# 7/25/2026 AI Opportunity Radar Distribution Copy
+# 7/26/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Freelance 3D Architectural Modeller UK Hours @ CGconnect
+1. IT Support Analyst @ Work Force Nexus
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Project Coordinator @ Outsource Access Careers
+2. Hand Assembly @ Lsn
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Math Teacher @ MatheMagis Singapore Maths
+3. Trabaja TODO Remoto Asesor de AtenciÃ³n al cliente y crosseling @ EntelConnect
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Australian Bookkeeping Assistant @ 24x7 Direct
+4. Enterprise Account Executive @ career
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Paralegal @ Giga Energy
+5. Brand Content & Communications Associate Manager @ FuseGlobal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Product Designer @ Flint
+6. PROJECT SOVEREIGNTY @ conceptMonkey | Product &amp; Innovation Services - Sebastian Benderoth
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Executive Assistant @ Ritual AdsÂ®
+7. I want all the money @ Something Awful
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Analista de Infraestrutura Pleno DevOps @ Melhor Envio
+8. Job hunting indecision @ Something Awful
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Freelance 3D Architectural Modeller UK Hours @ CGconnect
+1. IT Support Analyst @ Work Force Nexus
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Project Coordinator @ Outsource Access Careers
+2. Hand Assembly @ Lsn
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Math Teacher @ MatheMagis Singapore Maths
+3. Trabaja TODO Remoto Asesor de AtenciÃ³n al cliente y crosseling @ EntelConnect
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Australian Bookkeeping Assistant @ 24x7 Direct
+4. Enterprise Account Executive @ career
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Paralegal @ Giga Energy
+5. Brand Content & Communications Associate Manager @ FuseGlobal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Product Designer @ Flint
+6. PROJECT SOVEREIGNTY @ conceptMonkey | Product &amp; Innovation Services - Sebastian Benderoth
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Executive Assistant @ Ritual AdsÂ®
+7. I want all the money @ Something Awful
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Analista de Infraestrutura Pleno DevOps @ Melhor Envio
+8. Job hunting indecision @ Something Awful
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
