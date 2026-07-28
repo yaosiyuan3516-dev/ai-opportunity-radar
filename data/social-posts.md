@@ -1,38 +1,38 @@
-# 7/27/2026 AI Opportunity Radar Distribution Copy
+# 7/28/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. https brokehipster.com listings lloyds bank @ Broke Hipster
+1. Who We Are @ Pet Health Insurance Services
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. URBAN @ Viniluxx
+2. NUNAVUT @ Team Panamera
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. No open roles right now @ Public Health Bureau
+3. Other @ Kamsons
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Technical Recruiter 2026 New Graduate @ Radiant Industries
+4. Ottawa ON @ LEAKPRO
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Executive Assistant @ 16VC
+5. Candidate Requirements @ The VETS
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Hawg Ops @ Airmen Coders
+6. Full @ HandySpot
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Skip content @ Airmen Coders
+7. Free @ HandySpot
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. RSM @ Ageless Digital Technologies Private Limited
+8. HR Operations Generalist @ Hired
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. https brokehipster.com listings lloyds bank @ Broke Hipster
+1. Who We Are @ Pet Health Insurance Services
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. URBAN @ Viniluxx
+2. NUNAVUT @ Team Panamera
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. No open roles right now @ Public Health Bureau
+3. Other @ Kamsons
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Technical Recruiter 2026 New Graduate @ Radiant Industries
+4. Ottawa ON @ LEAKPRO
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Executive Assistant @ 16VC
+5. Candidate Requirements @ The VETS
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Hawg Ops @ Airmen Coders
+6. Full @ HandySpot
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Skip content @ Airmen Coders
+7. Free @ HandySpot
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. RSM @ Ageless Digital Technologies Private Limited
+8. HR Operations Generalist @ Hired
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
