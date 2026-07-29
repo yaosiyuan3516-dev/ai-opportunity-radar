@@ -1,38 +1,38 @@
-# 7/28/2026 AI Opportunity Radar Distribution Copy
+# 7/29/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Who We Are @ Pet Health Insurance Services
+1. Senior Vice President Coach @ Fulchester Consultants
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. NUNAVUT @ Team Panamera
+2. Procurement Manager @ CapitexAI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Other @ Kamsons
+3. Graphic Designer @ Sundayy
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Ottawa ON @ LEAKPRO
+4. English Language Specialist @ Hired
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Candidate Requirements @ The VETS
+5. Head of Operations @ CXD Ventures
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Full @ HandySpot
+6. Public Health Administrator @ CORMAC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Free @ HandySpot
+7. Human Resources Benefits Coordinator @ Hoxton Circle
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. HR Operations Generalist @ Hired
+8. Influencer Marketing Associate Director @ Newhouse
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Who We Are @ Pet Health Insurance Services
+1. Senior Vice President Coach @ Fulchester Consultants
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. NUNAVUT @ Team Panamera
+2. Procurement Manager @ CapitexAI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Other @ Kamsons
+3. Graphic Designer @ Sundayy
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Ottawa ON @ LEAKPRO
+4. English Language Specialist @ Hired
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Candidate Requirements @ The VETS
+5. Head of Operations @ CXD Ventures
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Full @ HandySpot
+6. Public Health Administrator @ CORMAC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Free @ HandySpot
+7. Human Resources Benefits Coordinator @ Hoxton Circle
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. HR Operations Generalist @ Hired
+8. Influencer Marketing Associate Director @ Newhouse
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
