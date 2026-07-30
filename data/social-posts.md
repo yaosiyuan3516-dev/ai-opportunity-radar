@@ -1,38 +1,38 @@
-# 7/29/2026 AI Opportunity Radar Distribution Copy
+# 7/30/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Senior Vice President Coach @ Fulchester Consultants
+1. Chief of Staff the CEO @ Everyday Dose
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Procurement Manager @ CapitexAI
+2. Hospice @ Hometown Deli &amp; Grocery
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Graphic Designer @ Sundayy
+3. Acoustical Management @ Hometown Deli &amp; Grocery
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. English Language Specialist @ Hired
+4. REEDER @ Tarsu AlÄ±ÅveriÅ Merkezi
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Head of Operations @ CXD Ventures
+5. FLO @ Tarsu AlÄ±ÅveriÅ Merkezi
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Public Health Administrator @ CORMAC
+6. Empathetic Friend @ Joi AI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Human Resources Benefits Coordinator @ Hoxton Circle
+7. Graphic Designer @ Miranda Creative, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Influencer Marketing Associate Director @ Newhouse
+8. ACT Application Form @ Yo-Bar
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Senior Vice President Coach @ Fulchester Consultants
+1. Chief of Staff the CEO @ Everyday Dose
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Procurement Manager @ CapitexAI
+2. Hospice @ Hometown Deli &amp; Grocery
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Graphic Designer @ Sundayy
+3. Acoustical Management @ Hometown Deli &amp; Grocery
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. English Language Specialist @ Hired
+4. REEDER @ Tarsu AlÄ±ÅveriÅ Merkezi
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Head of Operations @ CXD Ventures
+5. FLO @ Tarsu AlÄ±ÅveriÅ Merkezi
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Public Health Administrator @ CORMAC
+6. Empathetic Friend @ Joi AI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Human Resources Benefits Coordinator @ Hoxton Circle
+7. Graphic Designer @ Miranda Creative, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Influencer Marketing Associate Director @ Newhouse
+8. ACT Application Form @ Yo-Bar
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
