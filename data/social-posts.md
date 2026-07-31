@@ -1,38 +1,38 @@
-# 7/30/2026 AI Opportunity Radar Distribution Copy
+# 7/31/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Chief of Staff the CEO @ Everyday Dose
+1. At Office @ Pioneer Navigation Global
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Hospice @ Hometown Deli &amp; Grocery
+2. Technical Grower @ Driscoll's EMEA
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Acoustical Management @ Hometown Deli &amp; Grocery
+3. Human Resources Specialist @ Harvey Nash
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. REEDER @ Tarsu AlÄ±ÅveriÅ Merkezi
+4. Traveler Care Specialist Luxury Travel @ Zicasso
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. FLO @ Tarsu AlÄ±ÅveriÅ Merkezi
+5. Project Administrator @ Bavarian Capital
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Empathetic Friend @ Joi AI
+6. Software Engineer GO @ Wakacje.pl
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Graphic Designer @ Miranda Creative, Inc.
+7. Copy Editor @ MissionStaff
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. ACT Application Form @ Yo-Bar
+8. Ecology and Society @ Section on Emergency and Crisis Management (SECM)
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Chief of Staff the CEO @ Everyday Dose
+1. At Office @ Pioneer Navigation Global
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Hospice @ Hometown Deli &amp; Grocery
+2. Technical Grower @ Driscoll's EMEA
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Acoustical Management @ Hometown Deli &amp; Grocery
+3. Human Resources Specialist @ Harvey Nash
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. REEDER @ Tarsu AlÄ±ÅveriÅ Merkezi
+4. Traveler Care Specialist Luxury Travel @ Zicasso
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. FLO @ Tarsu AlÄ±ÅveriÅ Merkezi
+5. Project Administrator @ Bavarian Capital
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Empathetic Friend @ Joi AI
+6. Software Engineer GO @ Wakacje.pl
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Graphic Designer @ Miranda Creative, Inc.
+7. Copy Editor @ MissionStaff
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. ACT Application Form @ Yo-Bar
+8. Ecology and Society @ Section on Emergency and Crisis Management (SECM)
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
