@@ -1,38 +1,38 @@
-# 7/31/2026 AI Opportunity Radar Distribution Copy
+# 8/1/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. At Office @ Pioneer Navigation Global
+1. Traffic Controller @ Aussie Traffic Control
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Technical Grower @ Driscoll's EMEA
+2. AIå¹è®­è®²å¸ ç¡åé¡¹ç®ï¼çº¿ä¸ï¼ @ è½¯è£è®¾è®¡å¬å¸
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Human Resources Specialist @ Harvey Nash
+3. Executive Operations &amp; Project Manager @ Viva Wellness Drip
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Traveler Care Specialist Luxury Travel @ Zicasso
+4. Nanny Camp Hill @ Mini Connections
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Project Administrator @ Bavarian Capital
+5. 1. IDEAS IMPACT @ CSR Ideas
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Software Engineer GO @ Wakacje.pl
+6. Regional General Manager Airports @ WestJet
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Copy Editor @ MissionStaff
+7. RGeneral Production @ Dana Incorporated
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Ecology and Society @ Section on Emergency and Crisis Management (SECM)
+8. Future Job Test @ Flock Freight
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. At Office @ Pioneer Navigation Global
+1. Traffic Controller @ Aussie Traffic Control
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Technical Grower @ Driscoll's EMEA
+2. AIå¹è®­è®²å¸ ç¡åé¡¹ç®ï¼çº¿ä¸ï¼ @ è½¯è£è®¾è®¡å¬å¸
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Human Resources Specialist @ Harvey Nash
+3. Executive Operations &amp; Project Manager @ Viva Wellness Drip
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Traveler Care Specialist Luxury Travel @ Zicasso
+4. Nanny Camp Hill @ Mini Connections
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Project Administrator @ Bavarian Capital
+5. 1. IDEAS IMPACT @ CSR Ideas
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Software Engineer GO @ Wakacje.pl
+6. Regional General Manager Airports @ WestJet
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Copy Editor @ MissionStaff
+7. RGeneral Production @ Dana Incorporated
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Ecology and Society @ Section on Emergency and Crisis Management (SECM)
+8. Future Job Test @ Flock Freight
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
