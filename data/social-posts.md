@@ -1,38 +1,38 @@
-# 8/1/2026 AI Opportunity Radar Distribution Copy
+# 8/2/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Traffic Controller @ Aussie Traffic Control
+1. Y Combinator â Aceleradora de Startups @ EspaÃ±ol Sin Fronteras
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. AIå¹è®­è®²å¸ ç¡åé¡¹ç®ï¼çº¿ä¸ï¼ @ è½¯è£è®¾è®¡å¬å¸
+2. Estimator @ MTrec Recruitment
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Executive Operations &amp; Project Manager @ Viva Wellness Drip
+3. Estimator @ One Way
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Nanny Camp Hill @ Mini Connections
+4. Service Locator @ BAM UK &amp; Ireland
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. 1. IDEAS IMPACT @ CSR Ideas
+5. Chief Operating Officer @ U.S. Hunger
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Regional General Manager Airports @ WestJet
+6. Safety Advisor @ Keolis Australia &amp; New Zealand
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. RGeneral Production @ Dana Incorporated
+7. Tequila Market Manager New Jersey @ Bandero Tequila
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Future Job Test @ Flock Freight
+8. Human Resources Coordinator @ Pacific Health Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Traffic Controller @ Aussie Traffic Control
+1. Y Combinator â Aceleradora de Startups @ EspaÃ±ol Sin Fronteras
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. AIå¹è®­è®²å¸ ç¡åé¡¹ç®ï¼çº¿ä¸ï¼ @ è½¯è£è®¾è®¡å¬å¸
+2. Estimator @ MTrec Recruitment
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Executive Operations &amp; Project Manager @ Viva Wellness Drip
+3. Estimator @ One Way
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Nanny Camp Hill @ Mini Connections
+4. Service Locator @ BAM UK &amp; Ireland
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. 1. IDEAS IMPACT @ CSR Ideas
+5. Chief Operating Officer @ U.S. Hunger
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Regional General Manager Airports @ WestJet
+6. Safety Advisor @ Keolis Australia &amp; New Zealand
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. RGeneral Production @ Dana Incorporated
+7. Tequila Market Manager New Jersey @ Bandero Tequila
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Future Job Test @ Flock Freight
+8. Human Resources Coordinator @ Pacific Health Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
