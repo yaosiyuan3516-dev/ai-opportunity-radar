@@ -1,38 +1,38 @@
-# 8/3/2026 AI Opportunity Radar Distribution Copy
+# 8/4/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. We hire rarely â and carefully @ MITRITY
+1. AGC Studio @ AGC Studio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Open roles and general interest @ Pareto
+2. Jasper @ Hot9ja
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Junior Designer @ Haystack
+3. Julius AI @ Hot9ja
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Data Entry Administrator @ PulseMediaNL
+4. Wear What You Love is HIRING @ Provo Towne Centre
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Î¦Î±Î½ÏÎ±ÏÏÎ¹ÎºÎ¬ ÎÏÎ¼Î¬ÏÎ¹Î @ Imaginary Rooms
+5. Next Up @ eCare-Software LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Patient Outreach Specialist @ Grapefruit Health
+6. help wanted @ Lsn
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Licensed Customer Service Representative @ Liberty Mutual Insurance
+7. General Production @ Dana Solutions LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Join The Berry Avionics Team @ Berry Avionics
+8. General Laborer @ Lsn
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. We hire rarely â and carefully @ MITRITY
+1. AGC Studio @ AGC Studio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Open roles and general interest @ Pareto
+2. Jasper @ Hot9ja
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Junior Designer @ Haystack
+3. Julius AI @ Hot9ja
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Data Entry Administrator @ PulseMediaNL
+4. Wear What You Love is HIRING @ Provo Towne Centre
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Î¦Î±Î½ÏÎ±ÏÏÎ¹ÎºÎ¬ ÎÏÎ¼Î¬ÏÎ¹Î @ Imaginary Rooms
+5. Next Up @ eCare-Software LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Patient Outreach Specialist @ Grapefruit Health
+6. help wanted @ Lsn
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Licensed Customer Service Representative @ Liberty Mutual Insurance
+7. General Production @ Dana Solutions LLC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Join The Berry Avionics Team @ Berry Avionics
+8. General Laborer @ Lsn
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
