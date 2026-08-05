@@ -1,38 +1,38 @@
-# 8/4/2026 AI Opportunity Radar Distribution Copy
+# 8/5/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. AGC Studio @ AGC Studio
+1. Community @ Program Delta Performance Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Jasper @ Hot9ja
+2. Jimothy2.0 @ Meme Calls
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Julius AI @ Hot9ja
+3. merv @ Meme Calls
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Wear What You Love is HIRING @ Provo Towne Centre
+4. Close satellite support @ BRAVO1ALPHA BV
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Next Up @ eCare-Software LLC
+5. LiftResume AI @ Myriadloop
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. help wanted @ Lsn
+6. ApnaStock @ YT Corporation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. General Production @ Dana Solutions LLC
+7. Regional Sales Manager @ Balco, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. General Laborer @ Lsn
+8. Application Developer @ Accenture in India
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. AGC Studio @ AGC Studio
+1. Community @ Program Delta Performance Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Jasper @ Hot9ja
+2. Jimothy2.0 @ Meme Calls
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Julius AI @ Hot9ja
+3. merv @ Meme Calls
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Wear What You Love is HIRING @ Provo Towne Centre
+4. Close satellite support @ BRAVO1ALPHA BV
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Next Up @ eCare-Software LLC
+5. LiftResume AI @ Myriadloop
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. help wanted @ Lsn
+6. ApnaStock @ YT Corporation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. General Production @ Dana Solutions LLC
+7. Regional Sales Manager @ Balco, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. General Laborer @ Lsn
+8. Application Developer @ Accenture in India
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
