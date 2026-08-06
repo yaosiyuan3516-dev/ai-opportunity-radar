@@ -1,38 +1,38 @@
-# 8/5/2026 AI Opportunity Radar Distribution Copy
+# 8/6/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Community @ Program Delta Performance Group
+1. Resource Manager @ The Story Shack
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Jimothy2.0 @ Meme Calls
+2. Go Ahead London @ Kent Country
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. merv @ Meme Calls
+3. Go South Coast @ Kent Country
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Close satellite support @ BRAVO1ALPHA BV
+4. Essentials @ Nexerada
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. LiftResume AI @ Myriadloop
+5. The Ledbury @ My Baristyle
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. ApnaStock @ YT Corporation
+6. House Cleaning @ feef.in
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Regional Sales Manager @ Balco, Inc.
+7. Head of Security @ Tremendous
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Application Developer @ Accenture in India
+8. Online Marketing Traineeship @ Tyroola.com.au
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Community @ Program Delta Performance Group
+1. Resource Manager @ The Story Shack
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Jimothy2.0 @ Meme Calls
+2. Go Ahead London @ Kent Country
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. merv @ Meme Calls
+3. Go South Coast @ Kent Country
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Close satellite support @ BRAVO1ALPHA BV
+4. Essentials @ Nexerada
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. LiftResume AI @ Myriadloop
+5. The Ledbury @ My Baristyle
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. ApnaStock @ YT Corporation
+6. House Cleaning @ feef.in
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Regional Sales Manager @ Balco, Inc.
+7. Head of Security @ Tremendous
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Application Developer @ Accenture in India
+8. Online Marketing Traineeship @ Tyroola.com.au
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
