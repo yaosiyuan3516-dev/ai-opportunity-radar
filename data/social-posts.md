@@ -1,38 +1,38 @@
-# 8/6/2026 AI Opportunity Radar Distribution Copy
+# 8/7/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Resource Manager @ The Story Shack
+1. barista @ Cafe March 21
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Go Ahead London @ Kent Country
+2. Maintenance Technician @ The McBride Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Go South Coast @ Kent Country
+3. Technical Storekeeper @ Carnival Corporation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Essentials @ Nexerada
+4. 12650000 @ Radical Reversibility
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. The Ledbury @ My Baristyle
+5. There is no such thing as coincidence @ Radical Reversibility
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. House Cleaning @ feef.in
+6. CROWN MELBOURNE @ Crown &amp; Pearl
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Head of Security @ Tremendous
+7. Routesetters @ SetRsoft
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Online Marketing Traineeship @ Tyroola.com.au
+8. The right person can still introduce themselves @ OmeSync
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Resource Manager @ The Story Shack
+1. barista @ Cafe March 21
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Go Ahead London @ Kent Country
+2. Maintenance Technician @ The McBride Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Go South Coast @ Kent Country
+3. Technical Storekeeper @ Carnival Corporation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Essentials @ Nexerada
+4. 12650000 @ Radical Reversibility
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. The Ledbury @ My Baristyle
+5. There is no such thing as coincidence @ Radical Reversibility
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. House Cleaning @ feef.in
+6. CROWN MELBOURNE @ Crown &amp; Pearl
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Head of Security @ Tremendous
+7. Routesetters @ SetRsoft
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Online Marketing Traineeship @ Tyroola.com.au
+8. The right person can still introduce themselves @ OmeSync
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
