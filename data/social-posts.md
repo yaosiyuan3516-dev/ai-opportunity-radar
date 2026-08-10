@@ -1,38 +1,38 @@
-# 8/9/2026 AI Opportunity Radar Distribution Copy
+# 8/10/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Veck IO @ ProductionBeast
+1. Beekeeper Academy of Achievement @ American Academy of Achievement
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Driving Directions @ ProductionBeast
+2. Driver @ Bapcor Retail
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. For India @ Uniparts India Ltd.
+3. Recognizing the Friction @ tClara
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. JOIN OUR TEAM @ Precision Safe Sidewalks
+4. HOW APPLY @ Captain PQ chemical industries Pvt. Limited
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Come join our team @ Belfast Area Chamber of Commerce
+5. Job Title @ Corrtech Energy Limited
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. The Three Bills @ Giant Leap Consulting
+6. St Georgeâs Cares @ Quintessence Films Limited
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Assembler @ Manunor Inc.
+7. YOUR JOB DESCRIPTION HERE @ Compucorp Inc
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Page Not Found @ PAXIO
+8. CLASSIC @ Get a Job
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Veck IO @ ProductionBeast
+1. Beekeeper Academy of Achievement @ American Academy of Achievement
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Driving Directions @ ProductionBeast
+2. Driver @ Bapcor Retail
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. For India @ Uniparts India Ltd.
+3. Recognizing the Friction @ tClara
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. JOIN OUR TEAM @ Precision Safe Sidewalks
+4. HOW APPLY @ Captain PQ chemical industries Pvt. Limited
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Come join our team @ Belfast Area Chamber of Commerce
+5. Job Title @ Corrtech Energy Limited
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. The Three Bills @ Giant Leap Consulting
+6. St Georgeâs Cares @ Quintessence Films Limited
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Assembler @ Manunor Inc.
+7. YOUR JOB DESCRIPTION HERE @ Compucorp Inc
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Page Not Found @ PAXIO
+8. CLASSIC @ Get a Job
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
