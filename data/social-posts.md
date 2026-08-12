@@ -1,38 +1,38 @@
-# 8/11/2026 AI Opportunity Radar Distribution Copy
+# 8/12/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Jobs @ Whiterose Janitorial Services
+1. Group leader @ PAYTM SERVICES PVT LTD
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Beekeeper Academy of Achievement @ American Academy of Achievement
+2. Handyman @ Ocean Hotels Group BARBADOS
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Driver @ Bapcor Retail
+3. Expression of Interest @ Immutable
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Recognizing the Friction @ tClara
+4. FC Lead @ Cart.com
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. HOW APPLY @ Captain PQ chemical industries Pvt. Limited
+5. Message Center Operator @ Amentum
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Job Title @ Corrtech Energy Limited
+6. service professionals @ Homelyo
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. St Georgeâs Cares @ Quintessence Films Limited
+7. Electrician Royal Beach Club @ Royal Caribbean International
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. YOUR JOB DESCRIPTION HERE @ Compucorp Inc
+8. Detail Specialist @ U-Haul
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Jobs @ Whiterose Janitorial Services
+1. Group leader @ PAYTM SERVICES PVT LTD
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Beekeeper Academy of Achievement @ American Academy of Achievement
+2. Handyman @ Ocean Hotels Group BARBADOS
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Driver @ Bapcor Retail
+3. Expression of Interest @ Immutable
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Recognizing the Friction @ tClara
+4. FC Lead @ Cart.com
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. HOW APPLY @ Captain PQ chemical industries Pvt. Limited
+5. Message Center Operator @ Amentum
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Job Title @ Corrtech Energy Limited
+6. service professionals @ Homelyo
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. St Georgeâs Cares @ Quintessence Films Limited
+7. Electrician Royal Beach Club @ Royal Caribbean International
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. YOUR JOB DESCRIPTION HERE @ Compucorp Inc
+8. Detail Specialist @ U-Haul
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
