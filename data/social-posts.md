@@ -1,38 +1,38 @@
-# 8/12/2026 AI Opportunity Radar Distribution Copy
+# 8/13/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Group leader @ PAYTM SERVICES PVT LTD
+1. Staff Software Engineer @ Evolve
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Handyman @ Ocean Hotels Group BARBADOS
+2. Ganger @ Jobs in Council
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Expression of Interest @ Immutable
+3. Artificial Intelligence Specialist @ Modi's Boutique
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. FC Lead @ Cart.com
+4. Merchandising Execution Associate MARLBOROUGH @ The Home Depot Canada
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Message Center Operator @ Amentum
+5. Loss Prevention Specialist @ The Home Depot Canada
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. service professionals @ Homelyo
+6. Typefully @ AI Supermarket
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Electrician Royal Beach Club @ Royal Caribbean International
+7. Apify @ AI Supermarket
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Detail Specialist @ U-Haul
+8. Aragon AI @ AI Supermarket
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Group leader @ PAYTM SERVICES PVT LTD
+1. Staff Software Engineer @ Evolve
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Handyman @ Ocean Hotels Group BARBADOS
+2. Ganger @ Jobs in Council
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Expression of Interest @ Immutable
+3. Artificial Intelligence Specialist @ Modi's Boutique
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. FC Lead @ Cart.com
+4. Merchandising Execution Associate MARLBOROUGH @ The Home Depot Canada
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Message Center Operator @ Amentum
+5. Loss Prevention Specialist @ The Home Depot Canada
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. service professionals @ Homelyo
+6. Typefully @ AI Supermarket
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Electrician Royal Beach Club @ Royal Caribbean International
+7. Apify @ AI Supermarket
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Detail Specialist @ U-Haul
+8. Aragon AI @ AI Supermarket
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
