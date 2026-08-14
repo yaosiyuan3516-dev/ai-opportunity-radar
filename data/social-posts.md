@@ -1,38 +1,38 @@
-# 8/13/2026 AI Opportunity Radar Distribution Copy
+# 8/14/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Staff Software Engineer @ Evolve
+1. Product Manager @ Resourceful Talent Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Ganger @ Jobs in Council
+2. Technician @ The Security Centre Limited.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Artificial Intelligence Specialist @ Modi's Boutique
+3. All Other Future Considerations @ WB Melback Corporation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Merchandising Execution Associate MARLBOROUGH @ The Home Depot Canada
+4. Looking for Job @ ALEH Writing Services (AWS)
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Loss Prevention Specialist @ The Home Depot Canada
+5. Bell Person @ Fairmont Hotels &amp; Resorts
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Typefully @ AI Supermarket
+6. Title TBD @ IBAC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Apify @ AI Supermarket
+7. Software Engineer III Mobile @ Stone
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Aragon AI @ AI Supermarket
+8. Software Engineer II Golang @ Stone
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Staff Software Engineer @ Evolve
+1. Product Manager @ Resourceful Talent Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Ganger @ Jobs in Council
+2. Technician @ The Security Centre Limited.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Artificial Intelligence Specialist @ Modi's Boutique
+3. All Other Future Considerations @ WB Melback Corporation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Merchandising Execution Associate MARLBOROUGH @ The Home Depot Canada
+4. Looking for Job @ ALEH Writing Services (AWS)
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Loss Prevention Specialist @ The Home Depot Canada
+5. Bell Person @ Fairmont Hotels &amp; Resorts
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Typefully @ AI Supermarket
+6. Title TBD @ IBAC
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Apify @ AI Supermarket
+7. Software Engineer III Mobile @ Stone
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Aragon AI @ AI Supermarket
+8. Software Engineer II Golang @ Stone
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
