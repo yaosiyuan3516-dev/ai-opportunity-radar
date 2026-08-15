@@ -1,38 +1,38 @@
-# 8/14/2026 AI Opportunity Radar Distribution Copy
+# 8/15/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Product Manager @ Resourceful Talent Group
+1. Gardener Handyman Driver @ NT Health
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Technician @ The Security Centre Limited.
+2. Express Your Interest @ Alexander &amp; Bebout, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. All Other Future Considerations @ WB Melback Corporation
+3. Carve Out Lead @ Arbex
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Looking for Job @ ALEH Writing Services (AWS)
+4. Room Attendant @ The Abaco Club
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Bell Person @ Fairmont Hotels &amp; Resorts
+5. Locator @ Aecon Group Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Title TBD @ IBAC
+6. Senior Data Engineer @ Lemon.io
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Software Engineer III Mobile @ Stone
+7. Sub Agent @ Skanska
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Software Engineer II Golang @ Stone
+8. HYGPOOLOP @ Hovis Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Product Manager @ Resourceful Talent Group
+1. Gardener Handyman Driver @ NT Health
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Technician @ The Security Centre Limited.
+2. Express Your Interest @ Alexander &amp; Bebout, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. All Other Future Considerations @ WB Melback Corporation
+3. Carve Out Lead @ Arbex
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Looking for Job @ ALEH Writing Services (AWS)
+4. Room Attendant @ The Abaco Club
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Bell Person @ Fairmont Hotels &amp; Resorts
+5. Locator @ Aecon Group Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Title TBD @ IBAC
+6. Senior Data Engineer @ Lemon.io
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Software Engineer III Mobile @ Stone
+7. Sub Agent @ Skanska
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Software Engineer II Golang @ Stone
+8. HYGPOOLOP @ Hovis Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
