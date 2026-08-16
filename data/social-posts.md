@@ -1,38 +1,38 @@
-# 8/15/2026 AI Opportunity Radar Distribution Copy
+# 8/16/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Gardener Handyman Driver @ NT Health
+1. Sandblaster @ Tiger Calcium Services Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Express Your Interest @ Alexander &amp; Bebout, Inc.
+2. Current openings @ Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Carve Out Lead @ Arbex
+3. QA Tester Entry Level @ Ace IT Careers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Room Attendant @ The Abaco Club
+4. Why Your First Weeks a New Role Shape Everything That Follows @ Decode-X
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Locator @ Aecon Group Inc.
+5. Shop Assistant Cammeray @ Harris Farm Markets
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Senior Data Engineer @ Lemon.io
+6. Brand Protection & Marketplace Compliance Analyst @ MultiplyMii
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Sub Agent @ Skanska
+7. Store Manager @ Wolt
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. HYGPOOLOP @ Hovis Ltd
+8. Test Job @ Link Snacks
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Gardener Handyman Driver @ NT Health
+1. Sandblaster @ Tiger Calcium Services Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Express Your Interest @ Alexander &amp; Bebout, Inc.
+2. Current openings @ Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Carve Out Lead @ Arbex
+3. QA Tester Entry Level @ Ace IT Careers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Room Attendant @ The Abaco Club
+4. Why Your First Weeks a New Role Shape Everything That Follows @ Decode-X
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Locator @ Aecon Group Inc.
+5. Shop Assistant Cammeray @ Harris Farm Markets
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Senior Data Engineer @ Lemon.io
+6. Brand Protection & Marketplace Compliance Analyst @ MultiplyMii
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Sub Agent @ Skanska
+7. Store Manager @ Wolt
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. HYGPOOLOP @ Hovis Ltd
+8. Test Job @ Link Snacks
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
