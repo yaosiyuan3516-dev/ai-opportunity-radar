@@ -1,38 +1,38 @@
-# 8/16/2026 AI Opportunity Radar Distribution Copy
+# 8/17/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Sandblaster @ Tiger Calcium Services Inc.
+1. Getting It Right @ Brite Enterprises
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Current openings @ Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)
+2. Custom Role @ TAR
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. QA Tester Entry Level @ Ace IT Careers
+3. Member of Technical Staff Engineering @ Physical Superintelligence
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Why Your First Weeks a New Role Shape Everything That Follows @ Decode-X
+4. Strategic Account Executive Lodging @ FreedomPay
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Shop Assistant Cammeray @ Harris Farm Markets
+5. Staff Software Development Engineer SDM @ Delinea
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Brand Protection & Marketplace Compliance Analyst @ MultiplyMii
+6. Senior Software Engineer Case Execution @ Pivotal Health
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Store Manager @ Wolt
+7. Cabin Cleaning Agent @ Menzies Aviation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Test Job @ Link Snacks
+8. Sandblaster @ Tiger Calcium Services Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Sandblaster @ Tiger Calcium Services Inc.
+1. Getting It Right @ Brite Enterprises
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Current openings @ Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)
+2. Custom Role @ TAR
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. QA Tester Entry Level @ Ace IT Careers
+3. Member of Technical Staff Engineering @ Physical Superintelligence
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Why Your First Weeks a New Role Shape Everything That Follows @ Decode-X
+4. Strategic Account Executive Lodging @ FreedomPay
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Shop Assistant Cammeray @ Harris Farm Markets
+5. Staff Software Development Engineer SDM @ Delinea
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Brand Protection & Marketplace Compliance Analyst @ MultiplyMii
+6. Senior Software Engineer Case Execution @ Pivotal Health
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Store Manager @ Wolt
+7. Cabin Cleaning Agent @ Menzies Aviation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Test Job @ Link Snacks
+8. Sandblaster @ Tiger Calcium Services Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
