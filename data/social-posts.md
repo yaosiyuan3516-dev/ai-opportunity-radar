@@ -1,38 +1,38 @@
-# 8/18/2026 AI Opportunity Radar Distribution Copy
+# 8/19/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Nexus @ Flurix.AI
+1. Various @ Plumbers Co-op
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Executive Assistant @ Numeris
+2. Test @ The iNUA Hotel Collection
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Billing Officer @ FroxJob | Executive Jobs in Nepal
+3. General Merchandise Department Manager @ Walmart Canada
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Getting It Right @ Brite Enterprises
+4. Expression of Interest with First Quantum @ First Quantum Minerals
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Custom Role @ TAR
+5. Fire Fighter @ Adani Airport Holdings Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Member of Technical Staff Engineering @ Physical Superintelligence
+6. Maintenance and Grounds Officer @ Department of Education and Training
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Strategic Account Executive Lodging @ FreedomPay
+7. What should I ask them when they say 'Do you have any questions for us  @ Baldwin Blueprint
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Staff Software Development Engineer SDM @ Delinea
+8. What does 'fast paced environment' actually mean for my day day @ Baldwin Blueprint
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Nexus @ Flurix.AI
+1. Various @ Plumbers Co-op
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Executive Assistant @ Numeris
+2. Test @ The iNUA Hotel Collection
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Billing Officer @ FroxJob | Executive Jobs in Nepal
+3. General Merchandise Department Manager @ Walmart Canada
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Getting It Right @ Brite Enterprises
+4. Expression of Interest with First Quantum @ First Quantum Minerals
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Custom Role @ TAR
+5. Fire Fighter @ Adani Airport Holdings Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Member of Technical Staff Engineering @ Physical Superintelligence
+6. Maintenance and Grounds Officer @ Department of Education and Training
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Strategic Account Executive Lodging @ FreedomPay
+7. What should I ask them when they say 'Do you have any questions for us  @ Baldwin Blueprint
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Staff Software Development Engineer SDM @ Delinea
+8. What does 'fast paced environment' actually mean for my day day @ Baldwin Blueprint
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
