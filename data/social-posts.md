@@ -1,38 +1,38 @@
-# 8/19/2026 AI Opportunity Radar Distribution Copy
+# 8/20/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Various @ Plumbers Co-op
+1. General Interest @ Midjourney
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Test @ The iNUA Hotel Collection
+2. Unexploded Ordnance Tech II @ Alaka`ina Foundation Family of Companies
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. General Merchandise Department Manager @ Walmart Canada
+3. Security Guard @ Four Seasons
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Expression of Interest with First Quantum @ First Quantum Minerals
+4. Planner &amp; Zoning Specialist @ City of Covington, Georgia
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Fire Fighter @ Adani Airport Holdings Ltd
+5. All Other Roles @ Collate
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Maintenance and Grounds Officer @ Department of Education and Training
+6. Email Developer @ The Home Depot Canada
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. What should I ask them when they say 'Do you have any questions for us  @ Baldwin Blueprint
+7. General Cleaner Caribe Hilton @ Hilton
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. What does 'fast paced environment' actually mean for my day day @ Baldwin Blueprint
+8. Accounts Receivable Clerk @ ALPHA BPO CORP
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Various @ Plumbers Co-op
+1. General Interest @ Midjourney
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Test @ The iNUA Hotel Collection
+2. Unexploded Ordnance Tech II @ Alaka`ina Foundation Family of Companies
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. General Merchandise Department Manager @ Walmart Canada
+3. Security Guard @ Four Seasons
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Expression of Interest with First Quantum @ First Quantum Minerals
+4. Planner &amp; Zoning Specialist @ City of Covington, Georgia
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Fire Fighter @ Adani Airport Holdings Ltd
+5. All Other Roles @ Collate
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Maintenance and Grounds Officer @ Department of Education and Training
+6. Email Developer @ The Home Depot Canada
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. What should I ask them when they say 'Do you have any questions for us  @ Baldwin Blueprint
+7. General Cleaner Caribe Hilton @ Hilton
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. What does 'fast paced environment' actually mean for my day day @ Baldwin Blueprint
+8. Accounts Receivable Clerk @ ALPHA BPO CORP
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
