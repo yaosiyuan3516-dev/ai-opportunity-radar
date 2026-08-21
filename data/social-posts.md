@@ -1,38 +1,38 @@
-# 8/20/2026 AI Opportunity Radar Distribution Copy
+# 8/21/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. General Interest @ Midjourney
+1. Trimmer @ Canopy Growth Corporation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Unexploded Ordnance Tech II @ Alaka`ina Foundation Family of Companies
+2. Consultant Implementation Engineer @ Harbor
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Security Guard @ Four Seasons
+3. Laborer @ Wood
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Planner &amp; Zoning Specialist @ City of Covington, Georgia
+4. Baker Day @ Loblaw Companies Limited
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. All Other Roles @ Collate
+5. Technician 1 @ Sunbelt Rentals, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Email Developer @ The Home Depot Canada
+6. Overnight Task Team FT @ Bass Pro Shops
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. General Cleaner Caribe Hilton @ Hilton
+7. CI001 Courier @ FedEx
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Accounts Receivable Clerk @ ALPHA BPO CORP
+8. Assembly Technician @ Flow Control Commune
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. General Interest @ Midjourney
+1. Trimmer @ Canopy Growth Corporation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Unexploded Ordnance Tech II @ Alaka`ina Foundation Family of Companies
+2. Consultant Implementation Engineer @ Harbor
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Security Guard @ Four Seasons
+3. Laborer @ Wood
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Planner &amp; Zoning Specialist @ City of Covington, Georgia
+4. Baker Day @ Loblaw Companies Limited
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. All Other Roles @ Collate
+5. Technician 1 @ Sunbelt Rentals, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Email Developer @ The Home Depot Canada
+6. Overnight Task Team FT @ Bass Pro Shops
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. General Cleaner Caribe Hilton @ Hilton
+7. CI001 Courier @ FedEx
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Accounts Receivable Clerk @ ALPHA BPO CORP
+8. Assembly Technician @ Flow Control Commune
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
