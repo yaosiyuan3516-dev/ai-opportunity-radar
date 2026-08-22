@@ -1,38 +1,38 @@
-# 8/21/2026 AI Opportunity Radar Distribution Copy
+# 8/22/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Trimmer @ Canopy Growth Corporation
+1. Beauty merchandiser @ Shoppers Drug Mart
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Consultant Implementation Engineer @ Harbor
+2. Orderly @ NT Health
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Laborer @ Wood
+3. Loss Prevention Officer @ Manhattan Grand Hotel
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Baker Day @ Loblaw Companies Limited
+4. Sales Advisor @ H&amp;M
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Technician 1 @ Sunbelt Rentals, Inc.
+5. Team Member Level 2 @ GPC Asia Pacific
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Overnight Task Team FT @ Bass Pro Shops
+6. Senior Executive @ EXL
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. CI001 Courier @ FedEx
+7. Roupeiro @ Presenza Psicologia
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Assembly Technician @ Flow Control Commune
+8. Pilot @ SpaceX
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Trimmer @ Canopy Growth Corporation
+1. Beauty merchandiser @ Shoppers Drug Mart
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Consultant Implementation Engineer @ Harbor
+2. Orderly @ NT Health
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Laborer @ Wood
+3. Loss Prevention Officer @ Manhattan Grand Hotel
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Baker Day @ Loblaw Companies Limited
+4. Sales Advisor @ H&amp;M
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Technician 1 @ Sunbelt Rentals, Inc.
+5. Team Member Level 2 @ GPC Asia Pacific
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Overnight Task Team FT @ Bass Pro Shops
+6. Senior Executive @ EXL
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. CI001 Courier @ FedEx
+7. Roupeiro @ Presenza Psicologia
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Assembly Technician @ Flow Control Commune
+8. Pilot @ SpaceX
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
