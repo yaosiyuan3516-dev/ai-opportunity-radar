@@ -1,38 +1,38 @@
-# 8/22/2026 AI Opportunity Radar Distribution Copy
+# 8/23/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Beauty merchandiser @ Shoppers Drug Mart
+1. Parcel Delivery Drivers @ InPost Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Orderly @ NT Health
+2. DESARROLLADOR FULL STACK @ Kruger NearShore LLC - Rekluti
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Loss Prevention Officer @ Manhattan Grand Hotel
+3. Senior Governance Risk and Compliance Analyst @ RainFocus
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Sales Advisor @ H&amp;M
+4. CDP @ East Coast Concepts
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Team Member Level 2 @ GPC Asia Pacific
+5. Post Office Manager @ Shoppers Drug Mart
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Senior Executive @ EXL
+6. Estimator @ Linsco Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Roupeiro @ Presenza Psicologia
+7. Project Systems Specialist @ Dart
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Pilot @ SpaceX
+8. Uday @ MyAarohan
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Beauty merchandiser @ Shoppers Drug Mart
+1. Parcel Delivery Drivers @ InPost Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Orderly @ NT Health
+2. DESARROLLADOR FULL STACK @ Kruger NearShore LLC - Rekluti
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Loss Prevention Officer @ Manhattan Grand Hotel
+3. Senior Governance Risk and Compliance Analyst @ RainFocus
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Sales Advisor @ H&amp;M
+4. CDP @ East Coast Concepts
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Team Member Level 2 @ GPC Asia Pacific
+5. Post Office Manager @ Shoppers Drug Mart
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Senior Executive @ EXL
+6. Estimator @ Linsco Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Roupeiro @ Presenza Psicologia
+7. Project Systems Specialist @ Dart
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Pilot @ SpaceX
+8. Uday @ MyAarohan
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
