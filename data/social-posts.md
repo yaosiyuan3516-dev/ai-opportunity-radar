@@ -1,38 +1,38 @@
-# 8/23/2026 AI Opportunity Radar Distribution Copy
+# 8/24/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Parcel Delivery Drivers @ InPost Group
+1. Retail Store Associate @ Rowan
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. DESARROLLADOR FULL STACK @ Kruger NearShore LLC - Rekluti
+2. Senior Specialist Global QMS @ Orca Bio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Senior Governance Risk and Compliance Analyst @ RainFocus
+3. Across all departments @ Saasuji
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. CDP @ East Coast Concepts
+4. building cleaner @ Newfoundland Chocolate Company
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Post Office Manager @ Shoppers Drug Mart
+5. Officer @ Lupin Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Estimator @ Linsco Ltd
+6. Team Manager Newry Extra @ Tesco
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Project Systems Specialist @ Dart
+7. Parcel Delivery Drivers @ InPost Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Uday @ MyAarohan
+8. DESARROLLADOR FULL STACK @ Kruger NearShore LLC - Rekluti
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Parcel Delivery Drivers @ InPost Group
+1. Retail Store Associate @ Rowan
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. DESARROLLADOR FULL STACK @ Kruger NearShore LLC - Rekluti
+2. Senior Specialist Global QMS @ Orca Bio
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Senior Governance Risk and Compliance Analyst @ RainFocus
+3. Across all departments @ Saasuji
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. CDP @ East Coast Concepts
+4. building cleaner @ Newfoundland Chocolate Company
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Post Office Manager @ Shoppers Drug Mart
+5. Officer @ Lupin Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Estimator @ Linsco Ltd
+6. Team Manager Newry Extra @ Tesco
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Project Systems Specialist @ Dart
+7. Parcel Delivery Drivers @ InPost Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Uday @ MyAarohan
+8. DESARROLLADOR FULL STACK @ Kruger NearShore LLC - Rekluti
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
