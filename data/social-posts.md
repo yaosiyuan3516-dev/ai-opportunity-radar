@@ -1,38 +1,38 @@
-# 8/25/2026 AI Opportunity Radar Distribution Copy
+# 8/26/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Residential Technician @ The Abaco Club
+1. LEGO @ Teatro Multiplan MorumbiShopping
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Electrical Tradesperson @ Territory Generation
+2. Executive @ Vashi Integrated Solutions
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. CDP @ Saasuji
+3. Bell Captain @ Four Seasons
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Sandwich artist @ Subway
+4. Store person @ Krannich Solar Australia
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Retail Store Associate @ Rowan
+5. GLUCOBAY TASK FORCE @ Bayer
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Senior Specialist Global QMS @ Orca Bio
+6. Residential Technician @ The Abaco Club
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Across all departments @ Saasuji
+7. Electrical Tradesperson @ Territory Generation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Quantity Surveyor @ Edspired.Tech
+8. CDP @ Saasuji
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Residential Technician @ The Abaco Club
+1. LEGO @ Teatro Multiplan MorumbiShopping
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Electrical Tradesperson @ Territory Generation
+2. Executive @ Vashi Integrated Solutions
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. CDP @ Saasuji
+3. Bell Captain @ Four Seasons
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Sandwich artist @ Subway
+4. Store person @ Krannich Solar Australia
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Retail Store Associate @ Rowan
+5. GLUCOBAY TASK FORCE @ Bayer
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Senior Specialist Global QMS @ Orca Bio
+6. Residential Technician @ The Abaco Club
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Across all departments @ Saasuji
+7. Electrical Tradesperson @ Territory Generation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Quantity Surveyor @ Edspired.Tech
+8. CDP @ Saasuji
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
