@@ -1,38 +1,38 @@
-# 8/26/2026 AI Opportunity Radar Distribution Copy
+# 8/27/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. LEGO @ Teatro Multiplan MorumbiShopping
+1. Team Manager Newtownards Extra @ Tesco
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Executive @ Vashi Integrated Solutions
+2. Lead Estimator @ Complex Co.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Bell Captain @ Four Seasons
+3. BACK OF HOUSE @ Buffalo Wild Wings - Fralich, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Store person @ Krannich Solar Australia
+4. GA @ Aimwear
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. GLUCOBAY TASK FORCE @ Bayer
+5. Earn more @ Nick Scali Limited
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Residential Technician @ The Abaco Club
+6. Ramp Attendant @ Swissport
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Electrical Tradesperson @ Territory Generation
+7. Store Manager @ Carters Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. CDP @ Saasuji
+8. Test Job @ Leena AI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. LEGO @ Teatro Multiplan MorumbiShopping
+1. Team Manager Newtownards Extra @ Tesco
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Executive @ Vashi Integrated Solutions
+2. Lead Estimator @ Complex Co.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Bell Captain @ Four Seasons
+3. BACK OF HOUSE @ Buffalo Wild Wings - Fralich, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Store person @ Krannich Solar Australia
+4. GA @ Aimwear
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. GLUCOBAY TASK FORCE @ Bayer
+5. Earn more @ Nick Scali Limited
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Residential Technician @ The Abaco Club
+6. Ramp Attendant @ Swissport
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Electrical Tradesperson @ Territory Generation
+7. Store Manager @ Carters Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. CDP @ Saasuji
+8. Test Job @ Leena AI
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
