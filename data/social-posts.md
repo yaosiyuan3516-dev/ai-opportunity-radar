@@ -1,38 +1,38 @@
-# 8/27/2026 AI Opportunity Radar Distribution Copy
+# 8/28/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Team Manager Newtownards Extra @ Tesco
+1. Principal Engineer @ The AI Whistleblower Initiative
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Lead Estimator @ Complex Co.
+2. Now Hiring @ Greater Pell City Chamber of Commerce
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. BACK OF HOUSE @ Buffalo Wild Wings - Fralich, Inc.
+3. Gardener NUSC @ W Hotels
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. GA @ Aimwear
+4. Gardener @ W Hotels
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Earn more @ Nick Scali Limited
+5. Assistant Manager @ Storage King Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Ramp Attendant @ Swissport
+6. Senior Level Designer @ Blackbird Interactive
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Store Manager @ Carters Inc.
+7. Oracle Fusion Cloud Lead â Logistics & Supply Chain Management @ Tessera Labs
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Test Job @ Leena AI
+8. Don't see a role for you @ Carv
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Team Manager Newtownards Extra @ Tesco
+1. Principal Engineer @ The AI Whistleblower Initiative
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Lead Estimator @ Complex Co.
+2. Now Hiring @ Greater Pell City Chamber of Commerce
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. BACK OF HOUSE @ Buffalo Wild Wings - Fralich, Inc.
+3. Gardener NUSC @ W Hotels
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. GA @ Aimwear
+4. Gardener @ W Hotels
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Earn more @ Nick Scali Limited
+5. Assistant Manager @ Storage King Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Ramp Attendant @ Swissport
+6. Senior Level Designer @ Blackbird Interactive
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Store Manager @ Carters Inc.
+7. Oracle Fusion Cloud Lead â Logistics & Supply Chain Management @ Tessera Labs
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Test Job @ Leena AI
+8. Don't see a role for you @ Carv
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
