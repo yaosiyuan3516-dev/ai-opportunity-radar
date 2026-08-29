@@ -1,38 +1,38 @@
-# 8/28/2026 AI Opportunity Radar Distribution Copy
+# 8/29/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Principal Engineer @ The AI Whistleblower Initiative
+1. Donât see your role Apply here @ Atreides
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Now Hiring @ Greater Pell City Chamber of Commerce
+2. English Teacher @ Pembroke School
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Gardener NUSC @ W Hotels
+3. Cdp @ Hilton Salwa Beach Resort &amp; Villas
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Gardener @ W Hotels
+4. Meat and Seafood Clerk @ Pete's Frootique
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Assistant Manager @ Storage King Group
+5. Receiver @ Pete's Frootique
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Senior Level Designer @ Blackbird Interactive
+6. Store Manager @ Crocs, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Oracle Fusion Cloud Lead â Logistics & Supply Chain Management @ Tessera Labs
+7. Database Administrator @ TS Imagine
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Don't see a role for you @ Carv
+8. Vehicle Progressor @ Vertu Motors plc
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Principal Engineer @ The AI Whistleblower Initiative
+1. Donât see your role Apply here @ Atreides
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Now Hiring @ Greater Pell City Chamber of Commerce
+2. English Teacher @ Pembroke School
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Gardener NUSC @ W Hotels
+3. Cdp @ Hilton Salwa Beach Resort &amp; Villas
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Gardener @ W Hotels
+4. Meat and Seafood Clerk @ Pete's Frootique
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Assistant Manager @ Storage King Group
+5. Receiver @ Pete's Frootique
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Senior Level Designer @ Blackbird Interactive
+6. Store Manager @ Crocs, Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Oracle Fusion Cloud Lead â Logistics & Supply Chain Management @ Tessera Labs
+7. Database Administrator @ TS Imagine
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Don't see a role for you @ Carv
+8. Vehicle Progressor @ Vertu Motors plc
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
