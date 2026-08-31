@@ -1,38 +1,38 @@
-# 8/30/2026 AI Opportunity Radar Distribution Copy
+# 8/31/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE @ Elements Recruitment Australia
+1. MOT Tester @ Mr Clutch Autocentres
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Residential Valuer @ Acumentis Group
+2. Shunter @ Stobart
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. HIGIENIZADOR DE CARROS MACAÃ RJ @ Localiza&amp;Co
+3. Customer Service Agent @ Thrifty Car and Van Rental
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. HIGIENIZADOR DE CARROS CURITIBA PR @ Localiza&amp;Co
+4. Handyperson @ Wellburn Care Homes Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Store Manager @ Hola Moda
+5. Assistant Manager @ Clarks International
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Visual Merchandiser @ Hola Moda
+6. Wireperson @ TRANT ENGINEERING LIMITED
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Building Maintenance Technician @ Dart
+7. APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE @ Elements Recruitment Australia
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Test @ Digest Media
+8. Residential Valuer @ Acumentis Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE @ Elements Recruitment Australia
+1. MOT Tester @ Mr Clutch Autocentres
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Residential Valuer @ Acumentis Group
+2. Shunter @ Stobart
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. HIGIENIZADOR DE CARROS MACAÃ RJ @ Localiza&amp;Co
+3. Customer Service Agent @ Thrifty Car and Van Rental
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. HIGIENIZADOR DE CARROS CURITIBA PR @ Localiza&amp;Co
+4. Handyperson @ Wellburn Care Homes Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Store Manager @ Hola Moda
+5. Assistant Manager @ Clarks International
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Visual Merchandiser @ Hola Moda
+6. Wireperson @ TRANT ENGINEERING LIMITED
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Building Maintenance Technician @ Dart
+7. APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE @ Elements Recruitment Australia
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Test @ Digest Media
+8. Residential Valuer @ Acumentis Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
