@@ -1,38 +1,38 @@
-# 8/31/2026 AI Opportunity Radar Distribution Copy
+# 9/1/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. MOT Tester @ Mr Clutch Autocentres
+1. Cloud Computing @ Amazon Web Services (AWS)
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Shunter @ Stobart
+2. Commercial Building Estimator @ Complex Co.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Customer Service Agent @ Thrifty Car and Van Rental
+3. ENTERPRISE ARCHITECT L0 @ Wipro
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Handyperson @ Wellburn Care Homes Ltd
+4. AI Engineer Data APIs @ Benzinga
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Assistant Manager @ Clarks International
+5. GTM @ Wonderful
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Wireperson @ TRANT ENGINEERING LIMITED
+6. Professional PAT Tester @ Guardian Electrical Compliance Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE @ Elements Recruitment Australia
+7. MOT Tester @ Mr Clutch Autocentres
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Residential Valuer @ Acumentis Group
+8. Shunter @ Stobart
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. MOT Tester @ Mr Clutch Autocentres
+1. Cloud Computing @ Amazon Web Services (AWS)
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Shunter @ Stobart
+2. Commercial Building Estimator @ Complex Co.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Customer Service Agent @ Thrifty Car and Van Rental
+3. ENTERPRISE ARCHITECT L0 @ Wipro
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Handyperson @ Wellburn Care Homes Ltd
+4. AI Engineer Data APIs @ Benzinga
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Assistant Manager @ Clarks International
+5. GTM @ Wonderful
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Wireperson @ TRANT ENGINEERING LIMITED
+6. Professional PAT Tester @ Guardian Electrical Compliance Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE @ Elements Recruitment Australia
+7. MOT Tester @ Mr Clutch Autocentres
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Residential Valuer @ Acumentis Group
+8. Shunter @ Stobart
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
