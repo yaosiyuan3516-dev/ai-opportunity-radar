@@ -1,38 +1,38 @@
-# 9/1/2026 AI Opportunity Radar Distribution Copy
+# 9/2/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Cloud Computing @ Amazon Web Services (AWS)
+1. Produce Clerk @ Food Basics
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Commercial Building Estimator @ Complex Co.
+2. Assistant Store Manager Puerto Rico Premium Outlets @ Brooks Brothers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. ENTERPRISE ARCHITECT L0 @ Wipro
+3. Job Role @ Tap Growth ai
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. AI Engineer Data APIs @ Benzinga
+4. Business Analyst IT @ Gildan
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. GTM @ Wonderful
+5. Construction Estimator @ Streamline Search
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Professional PAT Tester @ Guardian Electrical Compliance Ltd
+6. Kitchen Porter W Edinburgh @ W Hotels
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. MOT Tester @ Mr Clutch Autocentres
+7. Plant Fitter @ Linsco Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Shunter @ Stobart
+8. Delivery Driver @ The Drinks LLAB
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Cloud Computing @ Amazon Web Services (AWS)
+1. Produce Clerk @ Food Basics
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Commercial Building Estimator @ Complex Co.
+2. Assistant Store Manager Puerto Rico Premium Outlets @ Brooks Brothers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. ENTERPRISE ARCHITECT L0 @ Wipro
+3. Job Role @ Tap Growth ai
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. AI Engineer Data APIs @ Benzinga
+4. Business Analyst IT @ Gildan
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. GTM @ Wonderful
+5. Construction Estimator @ Streamline Search
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Professional PAT Tester @ Guardian Electrical Compliance Ltd
+6. Kitchen Porter W Edinburgh @ W Hotels
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. MOT Tester @ Mr Clutch Autocentres
+7. Plant Fitter @ Linsco Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Shunter @ Stobart
+8. Delivery Driver @ The Drinks LLAB
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
