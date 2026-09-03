@@ -1,38 +1,38 @@
-# 9/2/2026 AI Opportunity Radar Distribution Copy
+# 9/3/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Produce Clerk @ Food Basics
+1. Multi Skilled Maintenance Technician @ Sigma
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Assistant Store Manager Puerto Rico Premium Outlets @ Brooks Brothers
+2. Chief Steward @ W Hotels
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Job Role @ Tap Growth ai
+3. Field Officer Bendigo @ Department of Justice and Community Safety, Victoria
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Business Analyst IT @ Gildan
+4. Mapping Test via Sandra @ Ennismore
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Construction Estimator @ Streamline Search
+5. Detailer @ Go Auto
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Kitchen Porter W Edinburgh @ W Hotels
+6. Kitchen Technician @ Four Seasons
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Plant Fitter @ Linsco Ltd
+7. Vehicle Detailer @ Clutch
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Delivery Driver @ The Drinks LLAB
+8. Payroll Clerk @ PVH Group Inc
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Produce Clerk @ Food Basics
+1. Multi Skilled Maintenance Technician @ Sigma
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Assistant Store Manager Puerto Rico Premium Outlets @ Brooks Brothers
+2. Chief Steward @ W Hotels
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Job Role @ Tap Growth ai
+3. Field Officer Bendigo @ Department of Justice and Community Safety, Victoria
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Business Analyst IT @ Gildan
+4. Mapping Test via Sandra @ Ennismore
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Construction Estimator @ Streamline Search
+5. Detailer @ Go Auto
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Kitchen Porter W Edinburgh @ W Hotels
+6. Kitchen Technician @ Four Seasons
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Plant Fitter @ Linsco Ltd
+7. Vehicle Detailer @ Clutch
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Delivery Driver @ The Drinks LLAB
+8. Payroll Clerk @ PVH Group Inc
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
