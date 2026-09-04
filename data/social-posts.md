@@ -1,38 +1,38 @@
-# 9/3/2026 AI Opportunity Radar Distribution Copy
+# 9/4/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Multi Skilled Maintenance Technician @ Sigma
+1. Police Officer @ Scottish Police Authority
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Chief Steward @ W Hotels
+2. Public Area Attendant @ Four Seasons
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Field Officer Bendigo @ Department of Justice and Community Safety, Victoria
+3. Irrigation Technician @ MSC Cruises
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Mapping Test via Sandra @ Ennismore
+4. Job Summary @ WorkaJobs
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Detailer @ Go Auto
+5. Driver @ St. George's University
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Kitchen Technician @ Four Seasons
+6. Data Entry Clerk @ Astrek Careers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Vehicle Detailer @ Clutch
+7. Grades Person @ Wilco Contractors Northwest Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Payroll Clerk @ PVH Group Inc
+8. Service Sales Executive @ Emplyfy
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Multi Skilled Maintenance Technician @ Sigma
+1. Police Officer @ Scottish Police Authority
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Chief Steward @ W Hotels
+2. Public Area Attendant @ Four Seasons
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Field Officer Bendigo @ Department of Justice and Community Safety, Victoria
+3. Irrigation Technician @ MSC Cruises
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Mapping Test via Sandra @ Ennismore
+4. Job Summary @ WorkaJobs
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Detailer @ Go Auto
+5. Driver @ St. George's University
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Kitchen Technician @ Four Seasons
+6. Data Entry Clerk @ Astrek Careers
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Vehicle Detailer @ Clutch
+7. Grades Person @ Wilco Contractors Northwest Inc.
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Payroll Clerk @ PVH Group Inc
+8. Service Sales Executive @ Emplyfy
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
