@@ -1,38 +1,38 @@
-# 9/4/2026 AI Opportunity Radar Distribution Copy
+# 9/5/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Police Officer @ Scottish Police Authority
+1. Customer Support & Success Specialist @ Warehance
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Public Area Attendant @ Four Seasons
+2. Roupeiro Muro Alto PE @ GAV Resorts
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Irrigation Technician @ MSC Cruises
+3. QA Engineer @ SunnyData
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Job Summary @ WorkaJobs
+4. Store Manager BOSS Store Plaza Las Americas @ HUGO BOSS
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Driver @ St. George's University
+5. MRO Buyer @ U.P.PRO
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Data Entry Clerk @ Astrek Careers
+6. Urban walker @ walkr - turn your Google Meet walk-friendly
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Grades Person @ Wilco Contractors Northwest Inc.
+7. Office Maid @ Hacksaw Gaming
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Service Sales Executive @ Emplyfy
+8. Police Officer @ Scottish Police Authority
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Police Officer @ Scottish Police Authority
+1. Customer Support & Success Specialist @ Warehance
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Public Area Attendant @ Four Seasons
+2. Roupeiro Muro Alto PE @ GAV Resorts
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Irrigation Technician @ MSC Cruises
+3. QA Engineer @ SunnyData
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Job Summary @ WorkaJobs
+4. Store Manager BOSS Store Plaza Las Americas @ HUGO BOSS
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Driver @ St. George's University
+5. MRO Buyer @ U.P.PRO
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Data Entry Clerk @ Astrek Careers
+6. Urban walker @ walkr - turn your Google Meet walk-friendly
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Grades Person @ Wilco Contractors Northwest Inc.
+7. Office Maid @ Hacksaw Gaming
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Service Sales Executive @ Emplyfy
+8. Police Officer @ Scottish Police Authority
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
