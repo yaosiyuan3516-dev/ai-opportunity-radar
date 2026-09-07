@@ -1,38 +1,38 @@
-# 9/6/2026 AI Opportunity Radar Distribution Copy
+# 9/7/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Junior Crypto Analyst & Trader @ Empire Assets
+1. AI Response Analyst @ iMerit Technology
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Customer Support & Success Specialist @ Warehance
+2. Junior Crypto Analyst & Trader @ Empire Assets
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Roupeiro Muro Alto PE @ GAV Resorts
+3. Customer Support & Success Specialist @ Warehance
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. QA Engineer @ SunnyData
+4. Roupeiro Muro Alto PE @ GAV Resorts
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Store Manager BOSS Store Plaza Las Americas @ HUGO BOSS
+5. QA Engineer @ SunnyData
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. MRO Buyer @ U.P.PRO
+6. Store Manager BOSS Store Plaza Las Americas @ HUGO BOSS
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Urban walker @ walkr - turn your Google Meet walk-friendly
+7. MRO Buyer @ U.P.PRO
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Office Maid @ Hacksaw Gaming
+8. Urban walker @ walkr - turn your Google Meet walk-friendly
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Junior Crypto Analyst & Trader @ Empire Assets
+1. AI Response Analyst @ iMerit Technology
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Customer Support & Success Specialist @ Warehance
+2. Junior Crypto Analyst & Trader @ Empire Assets
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Roupeiro Muro Alto PE @ GAV Resorts
+3. Customer Support & Success Specialist @ Warehance
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. QA Engineer @ SunnyData
+4. Roupeiro Muro Alto PE @ GAV Resorts
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Store Manager BOSS Store Plaza Las Americas @ HUGO BOSS
+5. QA Engineer @ SunnyData
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. MRO Buyer @ U.P.PRO
+6. Store Manager BOSS Store Plaza Las Americas @ HUGO BOSS
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Urban walker @ walkr - turn your Google Meet walk-friendly
+7. MRO Buyer @ U.P.PRO
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Office Maid @ Hacksaw Gaming
+8. Urban walker @ walkr - turn your Google Meet walk-friendly
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
