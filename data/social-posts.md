@@ -1,4 +1,4 @@
-# 9/9/2026 AI Opportunity Radar Distribution Copy
+# 9/10/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
@@ -20,19 +20,19 @@ I scanned 36 AI business signals today. Here are 8 practical opportunities build
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Roupeiro Muro Alto PE @ GAV Resorts
+5. QA Engineer @ SunnyData
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. QA Engineer @ SunnyData
+6. Regional Sales Manager @ OrderYOYO
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Store Manager BOSS Store Plaza Las Americas @ HUGO BOSS
+7. Plant Fitter @ Linsco Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. MRO Buyer @ U.P.PRO
+8. AI Engineer Data APIs @ Benzinga
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -60,19 +60,19 @@ I filtered remote jobs, AI tools, open-source projects, and monetization ideas. 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Roupeiro Muro Alto PE @ GAV Resorts
+5. QA Engineer @ SunnyData
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. QA Engineer @ SunnyData
+6. Regional Sales Manager @ OrderYOYO
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Store Manager BOSS Store Plaza Las Americas @ HUGO BOSS
+7. Plant Fitter @ Linsco Ltd
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. MRO Buyer @ U.P.PRO
+8. AI Engineer Data APIs @ Benzinga
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
