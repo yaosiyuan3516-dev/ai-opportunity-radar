@@ -1,6 +1,6 @@
 # AI Opportunity Radar Sponsor Kit
 
-Updated: 9/10/2026
+Updated: 9/11/2026
 
 ## Audience
 
