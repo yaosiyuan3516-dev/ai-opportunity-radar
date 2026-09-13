@@ -1,38 +1,38 @@
-# 9/12/2026 AI Opportunity Radar Distribution Copy
+# 9/13/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Engineering Manager TLM Platform @ Harper
+1. HR Operations Specialist @ Law Offices of Sabrina Li
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Senior Communications Officer Strategic Communications @ GiveWell
+2. Marketing Student Assistant @ Copenhagen Optimization
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Senior People & Talent Operations Partner @ TestGorilla
+3. Engineering Manager TLM Platform @ Harper
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. External Data Specialist @ eClinical Solutions
+4. Senior Communications Officer Strategic Communications @ GiveWell
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Business Development Manager @ Libertex Group
+5. Senior People & Talent Operations Partner @ TestGorilla
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Quality Dispense Technician North @ Thatchers Cider
+6. External Data Specialist @ eClinical Solutions
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Social Comms @ NOPE
+7. Business Development Manager @ Libertex Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. AI Response Analyst @ iMerit Technology
+8. Quality Dispense Technician North @ Thatchers Cider
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Engineering Manager TLM Platform @ Harper
+1. HR Operations Specialist @ Law Offices of Sabrina Li
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Senior Communications Officer Strategic Communications @ GiveWell
+2. Marketing Student Assistant @ Copenhagen Optimization
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Senior People & Talent Operations Partner @ TestGorilla
+3. Engineering Manager TLM Platform @ Harper
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. External Data Specialist @ eClinical Solutions
+4. Senior Communications Officer Strategic Communications @ GiveWell
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Business Development Manager @ Libertex Group
+5. Senior People & Talent Operations Partner @ TestGorilla
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Quality Dispense Technician North @ Thatchers Cider
+6. External Data Specialist @ eClinical Solutions
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Social Comms @ NOPE
+7. Business Development Manager @ Libertex Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. AI Response Analyst @ iMerit Technology
+8. Quality Dispense Technician North @ Thatchers Cider
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
