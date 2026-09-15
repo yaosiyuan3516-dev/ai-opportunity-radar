@@ -1,38 +1,38 @@
-# 9/14/2026 AI Opportunity Radar Distribution Copy
+# 9/15/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Technical Product Lead AI Finance App @ Bjak 
+1. Junior Payroll Assistant @ Sleek
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Software Engineer @ Mirantis
+2. Customer Experience Representative @ Prop Firm Match Global â FZCO
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. HR Operations Specialist @ Law Offices of Sabrina Li
+3. Technical Product Lead AI Finance App @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Marketing Student Assistant @ Copenhagen Optimization
+4. Software Engineer @ Mirantis
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Engineering Manager TLM Platform @ Harper
+5. HR Operations Specialist @ Law Offices of Sabrina Li
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Senior Communications Officer Strategic Communications @ GiveWell
+6. Marketing Student Assistant @ Copenhagen Optimization
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Senior People & Talent Operations Partner @ TestGorilla
+7. Engineering Manager TLM Platform @ Harper
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. External Data Specialist @ eClinical Solutions
+8. Senior Communications Officer Strategic Communications @ GiveWell
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Technical Product Lead AI Finance App @ Bjak 
+1. Junior Payroll Assistant @ Sleek
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Software Engineer @ Mirantis
+2. Customer Experience Representative @ Prop Firm Match Global â FZCO
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. HR Operations Specialist @ Law Offices of Sabrina Li
+3. Technical Product Lead AI Finance App @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Marketing Student Assistant @ Copenhagen Optimization
+4. Software Engineer @ Mirantis
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Engineering Manager TLM Platform @ Harper
+5. HR Operations Specialist @ Law Offices of Sabrina Li
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Senior Communications Officer Strategic Communications @ GiveWell
+6. Marketing Student Assistant @ Copenhagen Optimization
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Senior People & Talent Operations Partner @ TestGorilla
+7. Engineering Manager TLM Platform @ Harper
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. External Data Specialist @ eClinical Solutions
+8. Senior Communications Officer Strategic Communications @ GiveWell
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
