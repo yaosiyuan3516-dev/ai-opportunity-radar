@@ -1,38 +1,38 @@
-# 9/20/2026 AI Opportunity Radar Distribution Copy
+# 9/21/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. VP Pricing & Packaging @ Delinea
+1. Senior .NET Software Engineer @ OkWhen
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Customer Success Manager Mexico @ JumpCloud
+2. Frontend Engineer @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Senior Shopify Developer @ Sanctuary Computer
+3. Backend Software Engineer @ Airspace Link
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Golang Kubernetes Engineer @ Arango
+4. Software Deployment Engineer @ KPI Solutions
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. AI agent engineer @ Sticker Mule
+5. VP Pricing & Packaging @ Delinea
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. AI Trainer Image QA Evaluator @ iMerit Technology
+6. Customer Success Manager Mexico @ JumpCloud
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Principal Product Manager @ DomainTools
+7. Senior Shopify Developer @ Sanctuary Computer
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Sr Solutions Architect @ ExtraHop
+8. Golang Kubernetes Engineer @ Arango
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. VP Pricing & Packaging @ Delinea
+1. Senior .NET Software Engineer @ OkWhen
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Customer Success Manager Mexico @ JumpCloud
+2. Frontend Engineer @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Senior Shopify Developer @ Sanctuary Computer
+3. Backend Software Engineer @ Airspace Link
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Golang Kubernetes Engineer @ Arango
+4. Software Deployment Engineer @ KPI Solutions
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. AI agent engineer @ Sticker Mule
+5. VP Pricing & Packaging @ Delinea
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. AI Trainer Image QA Evaluator @ iMerit Technology
+6. Customer Success Manager Mexico @ JumpCloud
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Principal Product Manager @ DomainTools
+7. Senior Shopify Developer @ Sanctuary Computer
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Sr Solutions Architect @ ExtraHop
+8. Golang Kubernetes Engineer @ Arango
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
