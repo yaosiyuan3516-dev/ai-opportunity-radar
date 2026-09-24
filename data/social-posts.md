@@ -1,38 +1,38 @@
-# 9/23/2026 AI Opportunity Radar Distribution Copy
+# 9/24/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA @ Mindrift - Data annotation
+1. Technical Product Manager AI Stockbroking App @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Senior Growth Product Manager AI Native @ Magic Eden
+2. Frontend Engineer @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. People Operations Coordinator @ Ashby
+3. Junior Digital Assets Operations Analyst @ Omega Enterprises
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Senior .NET Software Engineer @ OkWhen
+4. Software Developer Security Analytics @ RedMimicry
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Frontend Engineer @ Bjak 
+5. Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA @ Mindrift - Data annotation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Backend Software Engineer @ Airspace Link
+6. Senior Growth Product Manager AI Native @ Magic Eden
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Software Deployment Engineer @ KPI Solutions
+7. People Operations Coordinator @ Ashby
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. VP Pricing & Packaging @ Delinea
+8. Senior .NET Software Engineer @ OkWhen
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA @ Mindrift - Data annotation
+1. Technical Product Manager AI Stockbroking App @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Senior Growth Product Manager AI Native @ Magic Eden
+2. Frontend Engineer @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. People Operations Coordinator @ Ashby
+3. Junior Digital Assets Operations Analyst @ Omega Enterprises
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Senior .NET Software Engineer @ OkWhen
+4. Software Developer Security Analytics @ RedMimicry
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Frontend Engineer @ Bjak 
+5. Freelance grabaciÃ³n de tareas cotidianas para proyecto de IA @ Mindrift - Data annotation
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Backend Software Engineer @ Airspace Link
+6. Senior Growth Product Manager AI Native @ Magic Eden
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Software Deployment Engineer @ KPI Solutions
+7. People Operations Coordinator @ Ashby
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. VP Pricing & Packaging @ Delinea
+8. Senior .NET Software Engineer @ OkWhen
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
