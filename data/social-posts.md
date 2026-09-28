@@ -1,38 +1,38 @@
-# 9/27/2026 AI Opportunity Radar Distribution Copy
+# 9/28/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Danish Speaking Solutions Consultant Work Sofia Bulgaria @ Mercier Consultancy Group
+1. Director Payment Integrity @ SIHO Insurance Services 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos @ Workana
+2. Danish Speaking Solutions Consultant Work Sofia Bulgaria @ Mercier Consultancy Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Video Data Annotator @ iMerit Technology
+3. MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos @ Workana
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Software Engineer @ Prenosis
+4. Video Data Annotator @ iMerit Technology
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Technical Product Manager AI Stockbroking App @ Bjak 
+5. Software Engineer @ Prenosis
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Frontend Engineer @ Bjak 
+6. Technical Product Manager AI Stockbroking App @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Junior Digital Assets Operations Analyst @ Omega Enterprises
+7. Frontend Engineer @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Software Developer Security Analytics @ RedMimicry
+8. Junior Digital Assets Operations Analyst @ Omega Enterprises
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Danish Speaking Solutions Consultant Work Sofia Bulgaria @ Mercier Consultancy Group
+1. Director Payment Integrity @ SIHO Insurance Services 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos @ Workana
+2. Danish Speaking Solutions Consultant Work Sofia Bulgaria @ Mercier Consultancy Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Video Data Annotator @ iMerit Technology
+3. MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos @ Workana
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Software Engineer @ Prenosis
+4. Video Data Annotator @ iMerit Technology
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Technical Product Manager AI Stockbroking App @ Bjak 
+5. Software Engineer @ Prenosis
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Frontend Engineer @ Bjak 
+6. Technical Product Manager AI Stockbroking App @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Junior Digital Assets Operations Analyst @ Omega Enterprises
+7. Frontend Engineer @ Bjak 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Software Developer Security Analytics @ RedMimicry
+8. Junior Digital Assets Operations Analyst @ Omega Enterprises
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
