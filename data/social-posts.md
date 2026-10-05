@@ -1,38 +1,38 @@
-# 10/4/2026 AI Opportunity Radar Distribution Copy
+# 10/5/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Junior Crypto Analyst & Trader @ Empire Assets
+1. Head of Operations @ Leverage Live Local
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Enterprise Sales Development Representative @ Toptal
+2. Junior Crypto Analyst & Trader @ Empire Assets
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Client Advisor @ Toptal
+3. Enterprise Sales Development Representative @ Toptal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Director Payment Integrity @ SIHO Insurance Services 
+4. Client Advisor @ Toptal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Danish Speaking Solutions Consultant Work Sofia Bulgaria @ Mercier Consultancy Group
+5. Director Payment Integrity @ SIHO Insurance Services 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos @ Workana
+6. Danish Speaking Solutions Consultant Work Sofia Bulgaria @ Mercier Consultancy Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Video Data Annotator @ iMerit Technology
+7. MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos @ Workana
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Software Engineer @ Prenosis
+8. Video Data Annotator @ iMerit Technology
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Junior Crypto Analyst & Trader @ Empire Assets
+1. Head of Operations @ Leverage Live Local
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Enterprise Sales Development Representative @ Toptal
+2. Junior Crypto Analyst & Trader @ Empire Assets
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Client Advisor @ Toptal
+3. Enterprise Sales Development Representative @ Toptal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Director Payment Integrity @ SIHO Insurance Services 
+4. Client Advisor @ Toptal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Danish Speaking Solutions Consultant Work Sofia Bulgaria @ Mercier Consultancy Group
+5. Director Payment Integrity @ SIHO Insurance Services 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos @ Workana
+6. Danish Speaking Solutions Consultant Work Sofia Bulgaria @ Mercier Consultancy Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Video Data Annotator @ iMerit Technology
+7. MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos @ Workana
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Software Engineer @ Prenosis
+8. Video Data Annotator @ iMerit Technology
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
