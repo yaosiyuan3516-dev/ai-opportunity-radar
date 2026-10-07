@@ -1,38 +1,38 @@
-# 10/6/2026 AI Opportunity Radar Distribution Copy
+# 10/7/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Federal Business Development Director @ Fortanix
+1. Platform and Integration Engineer Security Telemetry @ RedMimicry
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Head of Operations @ Leverage Live Local
+2. Federal Business Development Director @ Fortanix
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Junior Crypto Analyst & Trader @ Empire Assets
+3. Head of Operations @ Leverage Live Local
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Enterprise Sales Development Representative @ Toptal
+4. Junior Crypto Analyst & Trader @ Empire Assets
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Client Advisor @ Toptal
+5. Enterprise Sales Development Representative @ Toptal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Director Payment Integrity @ SIHO Insurance Services 
+6. Client Advisor @ Toptal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Danish Speaking Solutions Consultant Work Sofia Bulgaria @ Mercier Consultancy Group
+7. Director Payment Integrity @ SIHO Insurance Services 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos @ Workana
+8. Danish Speaking Solutions Consultant Work Sofia Bulgaria @ Mercier Consultancy Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Federal Business Development Director @ Fortanix
+1. Platform and Integration Engineer Security Telemetry @ RedMimicry
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Head of Operations @ Leverage Live Local
+2. Federal Business Development Director @ Fortanix
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Junior Crypto Analyst & Trader @ Empire Assets
+3. Head of Operations @ Leverage Live Local
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Enterprise Sales Development Representative @ Toptal
+4. Junior Crypto Analyst & Trader @ Empire Assets
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Client Advisor @ Toptal
+5. Enterprise Sales Development Representative @ Toptal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Director Payment Integrity @ SIHO Insurance Services 
+6. Client Advisor @ Toptal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Danish Speaking Solutions Consultant Work Sofia Bulgaria @ Mercier Consultancy Group
+7. Director Payment Integrity @ SIHO Insurance Services 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. MecÃ¡nico Automotriz DiagnÃ³stico y Presupuestos @ Workana
+8. Danish Speaking Solutions Consultant Work Sofia Bulgaria @ Mercier Consultancy Group
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
