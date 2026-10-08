@@ -1,10 +1,21 @@
 {
-  "generatedAt": "2026-10-07T07:09:23.894Z",
+  "generatedAt": "2026-10-08T07:16:04.133Z",
   "project": "AI Opportunity Radar",
   "totalCount": 36,
   "publicCount": 6,
   "lockedCount": 30,
   "items": [
+    {
+      "title": "Project Manager @ Spiralyze",
+      "url": "https://remoteOK.com/remote-jobs/remote-project-manager-spiralyze-1137466",
+      "source": "Remote OK",
+      "category": "远程工作",
+      "signal": 1791315342,
+      "score": 96,
+      "summary": "Useful for niche job digests, skill-demand briefs, resume reviews, and application support.",
+      "monetization": "Curated job alerts, resume reviews, application support",
+      "action": "Pick 5 roles and publish a focused niche job digest."
+    },
     {
       "title": "Platform and Integration Engineer Security Telemetry @ RedMimicry",
       "url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
@@ -55,17 +66,6 @@
       "source": "Remote OK",
       "category": "远程工作",
       "signal": 1790792682,
-      "score": 96,
-      "summary": "Useful for niche job digests, skill-demand briefs, resume reviews, and application support.",
-      "monetization": "Curated job alerts, resume reviews, application support",
-      "action": "Pick 5 roles and publish a focused niche job digest."
-    },
-    {
-      "title": "Client Advisor @ Toptal",
-      "url": "https://remoteOK.com/remote-jobs/remote-client-advisor-toptal-1137439",
-      "source": "Remote OK",
-      "category": "远程工作",
-      "signal": 1790784819,
       "score": 96,
       "summary": "Useful for niche job digests, skill-demand briefs, resume reviews, and application support.",
       "monetization": "Curated job alerts, resume reviews, application support",

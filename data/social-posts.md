@@ -1,38 +1,38 @@
-# 10/7/2026 AI Opportunity Radar Distribution Copy
+# 10/8/2026 AI Opportunity Radar Distribution Copy
 
 ## X / LinkedIn
 
 I scanned 36 AI business signals today. Here are 8 practical opportunities builders can test quickly:
 
-1. Platform and Integration Engineer Security Telemetry @ RedMimicry
+1. Project Manager @ Spiralyze
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Federal Business Development Director @ Fortanix
+2. Platform and Integration Engineer Security Telemetry @ RedMimicry
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Head of Operations @ Leverage Live Local
+3. Federal Business Development Director @ Fortanix
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Junior Crypto Analyst & Trader @ Empire Assets
+4. Head of Operations @ Leverage Live Local
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Enterprise Sales Development Representative @ Toptal
+5. Junior Crypto Analyst & Trader @ Empire Assets
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Client Advisor @ Toptal
+6. Enterprise Sales Development Representative @ Toptal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Director Payment Integrity @ SIHO Insurance Services 
+7. Client Advisor @ Toptal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Danish Speaking Solutions Consultant Work Sofia Bulgaria @ Mercier Consultancy Group
+8. Director Payment Integrity @ SIHO Insurance Services 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
@@ -44,35 +44,35 @@ Title: 8 AI business opportunities worth testing this week
 
 I filtered remote jobs, AI tools, open-source projects, and monetization ideas. The goal is not news consumption. The goal is to find low-cost signals that can become a paid report, a template, a service, or a subscription.
 
-1. Platform and Integration Engineer Security Telemetry @ RedMimicry
+1. Project Manager @ Spiralyze
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-2. Federal Business Development Director @ Fortanix
+2. Platform and Integration Engineer Security Telemetry @ RedMimicry
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-3. Head of Operations @ Leverage Live Local
+3. Federal Business Development Director @ Fortanix
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-4. Junior Crypto Analyst & Trader @ Empire Assets
+4. Head of Operations @ Leverage Live Local
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-5. Enterprise Sales Development Representative @ Toptal
+5. Junior Crypto Analyst & Trader @ Empire Assets
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-6. Client Advisor @ Toptal
+6. Enterprise Sales Development Representative @ Toptal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-7. Director Payment Integrity @ SIHO Insurance Services 
+7. Client Advisor @ Toptal
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
-8. Danish Speaking Solutions Consultant Work Sofia Bulgaria @ Mercier Consultancy Group
+8. Director Payment Integrity @ SIHO Insurance Services 
    Monetize: Curated job alerts, resume reviews, application support
    Next: Pick 5 roles and publish a focused niche job digest.
 
